@@ -1,59 +1,59 @@
-[
+﻿[
 	{
 		"assign": "110",
 		"jp_explainShort": "炎属性を大強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "화속성 강화(대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、炎属性を大きく強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 화속성을 대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "120",
 		"jp_explainShort": "炎属性を劇的強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "화속성 강화(극대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、炎属性を劇的に強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 화속성을 극대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "210",
 		"jp_explainShort": "氷属性を大強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "빙속성 강화(대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、氷属性を大きく強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 빙속성을 대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "220",
 		"jp_explainShort": "氷属性を劇的強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "빙속성 강화(극대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、氷属性を劇的に強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 빙속성을 대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "310",
 		"jp_explainShort": "雷属性を大強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "뇌속성 강화(대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、雷属性を大きく強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 뇌속성을 대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "320",
 		"jp_explainShort": "雷属性を劇的強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "뇌속성 강화(극대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、雷属性を劇的に強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 뇌속성을 극대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "410",
 		"jp_explainShort": "風属性を大強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "풍속성 강화(대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、風属性を大きく強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 풍속성을 대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "420",
 		"jp_explainShort": "風属性を劇的強化＋攻撃力を小強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "풍속성 강화(극대)+공격력 강화(소)",
 		"jp_explainLong": "長い時間、風属性を劇的に強化し\n攻撃力をわずかに強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "장시간동안 풍속성을 극대폭 강화한다. \n공격력을 소폭 강화한다."
 	},
 	{
 		"assign": "510",
