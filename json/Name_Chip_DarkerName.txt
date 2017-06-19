@@ -1,33 +1,33 @@
-[
+﻿[
 	{
 		"assign": "6001",
 		"jp_text": "クラーダ",
-		"tr_text": ""
+		"tr_text": "크라더"
 	},
 	{
 		"assign": "6002",
 		"jp_text": "黒飛蝗クラーダ",
-		"tr_text": ""
+		"tr_text": "흑비황 크라더"
 	},
 	{
 		"assign": "6003",
 		"jp_text": "ダガン",
-		"tr_text": ""
+		"tr_text": "다간"
 	},
 	{
 		"assign": "6004",
 		"jp_text": "闇の尖兵ダガン",
-		"tr_text": ""
+		"tr_text": "어둠의 첨병 다간"
 	},
 	{
 		"assign": "6005",
 		"jp_text": "エル・ダガン",
-		"tr_text": ""
+		"tr_text": "엘 다간"
 	},
 	{
 		"assign": "6006",
 		"jp_text": "強化尖兵エル・ダガン",
-		"tr_text": ""
+		"tr_text": "강화첨병 엘 다간"
 	},
 	{
 		"assign": "6007",
@@ -42,62 +42,62 @@
 	{
 		"assign": "6009",
 		"jp_text": "エル・アーダ",
-		"tr_text": ""
+		"tr_text": "엘 아더"
 	},
 	{
 		"assign": "6010",
 		"jp_text": "死神エル・アーダ",
-		"tr_text": ""
+		"tr_text": "사신 엘 아더"
 	},
 	{
 		"assign": "6011",
 		"jp_text": "カルターゴ",
-		"tr_text": ""
+		"tr_text": "카르타고"
 	},
 	{
 		"assign": "6012",
 		"jp_text": "閃蟲カルターゴ",
-		"tr_text": ""
+		"tr_text": "섬충 카르타고"
 	},
 	{
 		"assign": "6013",
 		"jp_text": "ブリアーダ",
-		"tr_text": ""
+		"tr_text": "브리아더"
 	},
 	{
 		"assign": "6014",
 		"jp_text": "黒き母艦ブリアーダ",
-		"tr_text": ""
+		"tr_text": "검은 모선 브리아더"
 	},
 	{
 		"assign": "6015",
 		"jp_text": "ダーク・ラグネ",
-		"tr_text": ""
+		"tr_text": "다크 라그네"
 	},
 	{
 		"assign": "6016",
 		"jp_text": "虚の骸ダーク・ラグネ",
-		"tr_text": ""
+		"tr_text": "허무의 시체 다크 라그네"
 	},
 	{
 		"assign": "6017",
 		"jp_text": "ダーク・アグラニ",
-		"tr_text": ""
+		"tr_text": "다크 아그라니"
 	},
 	{
 		"assign": "6018",
 		"jp_text": "虚の王ダーク・アグラニ",
-		"tr_text": ""
+		"tr_text": "허무의 왕 다크 아그라니"
 	},
 	{
 		"assign": "6019",
 		"jp_text": "ミクダ",
-		"tr_text": ""
+		"tr_text": "미크다"
 	},
 	{
 		"assign": "6020",
 		"jp_text": "鋼殻ミクダ",
-		"tr_text": ""
+		"tr_text": "강각 미크다"
 	},
 	{
 		"assign": "6021",
@@ -112,12 +112,12 @@
 	{
 		"assign": "6023",
 		"jp_text": "ダーガッシュ",
-		"tr_text": ""
+		"tr_text": "다갓슈"
 	},
 	{
 		"assign": "6024",
 		"jp_text": "悪食魚ダーガッシュ",
-		"tr_text": ""
+		"tr_text": "악식어 다갓슈"
 	},
 	{
 		"assign": "6025",
@@ -132,42 +132,42 @@
 	{
 		"assign": "6027",
 		"jp_text": "ダガッチャ",
-		"tr_text": ""
+		"tr_text": "다갓차"
 	},
 	{
 		"assign": "6028",
 		"jp_text": "追従魚ダガッチャ",
-		"tr_text": ""
+		"tr_text": "추종어 다갓차"
 	},
 	{
 		"assign": "6029",
 		"jp_text": "ガウォンダ",
-		"tr_text": ""
+		"tr_text": "가완다"
 	},
 	{
 		"assign": "6030",
 		"jp_text": "剛なる右の盾ガウォンダ",
-		"tr_text": ""
+		"tr_text": "강고한 오른 방패의 가완다"
 	},
 	{
 		"assign": "6031",
 		"jp_text": "グウォンダ",
-		"tr_text": ""
+		"tr_text": "그완다"
 	},
 	{
 		"assign": "6032",
 		"jp_text": "堅なる左の盾グウォンダ",
-		"tr_text": ""
+		"tr_text": "단단한 왼 방패의 그완다"
 	},
 	{
 		"assign": "6033",
 		"jp_text": "キュクロナーダ",
-		"tr_text": ""
+		"tr_text": "큐크로나다"
 	},
 	{
 		"assign": "6034",
 		"jp_text": "黒き巨体キュクロナーダ",
-		"tr_text": ""
+		"tr_text": "검은 거구의 큐크로나다"
 	},
 	{
 		"assign": "6035",
@@ -192,62 +192,62 @@
 	{
 		"assign": "6039",
 		"jp_text": "ウォルガーダ",
-		"tr_text": ""
+		"tr_text": "월가더"
 	},
 	{
 		"assign": "6040",
 		"jp_text": "破壊の黒曜ウォルガーダ",
-		"tr_text": ""
+		"tr_text": "파괴의 흑요 월가더"
 	},
 	{
 		"assign": "6041",
 		"jp_text": "アロナガーダ",
-		"tr_text": ""
+		"tr_text": "아로나가더"
 	},
 	{
 		"assign": "6042",
 		"jp_text": "破滅の王アロナガーダ",
-		"tr_text": ""
+		"tr_text": "파멸의 왕 아로나가더"
 	},
 	{
 		"assign": "6043",
 		"jp_text": "グワナーダ",
-		"tr_text": ""
+		"tr_text": "그와나다"
 	},
 	{
 		"assign": "6044",
 		"jp_text": "奈落の悪魔グワナーダ",
-		"tr_text": ""
+		"tr_text": "나락의 악마 그와나다"
 	},
 	{
 		"assign": "6045",
 		"jp_text": "グワナーダ・ネロ",
-		"tr_text": ""
+		"tr_text": "그와나다 네로"
 	},
 	{
 		"assign": "6046",
 		"jp_text": "奈落の王グワナーダ・ネロ",
-		"tr_text": ""
+		"tr_text": "나락의 왕 그와나다 네로"
 	},
 	{
 		"assign": "6047",
 		"jp_text": "ゼッシュレイダ",
-		"tr_text": ""
+		"tr_text": "젯슈레이더"
 	},
 	{
 		"assign": "6048",
 		"jp_text": "巨甲の混沌ゼッシュレイダ",
-		"tr_text": ""
+		"tr_text": "거갑의 혼돈 젯슈레이더"
 	},
 	{
 		"assign": "6049",
 		"jp_text": "リグシュレイダ",
-		"tr_text": ""
+		"tr_text": "리그슈레이더"
 	},
 	{
 		"assign": "6050",
 		"jp_text": "混沌の王リグシュレイダ",
-		"tr_text": ""
+		"tr_text": "혼돈의 왕 리그슈레이더"
 	},
 	{
 		"assign": "6051",
@@ -262,12 +262,12 @@
 	{
 		"assign": "6053",
 		"jp_text": "プレディカーダ",
-		"tr_text": ""
+		"tr_text": "프리디카더"
 	},
 	{
 		"assign": "6054",
 		"jp_text": "瞬閃の鎌手 プレディカーダ",
-		"tr_text": ""
+		"tr_text": "순섬의 낫 프리디카더"
 	},
 	{
 		"assign": "6055",
@@ -312,41 +312,41 @@
 	{
 		"assign": "6063",
 		"jp_text": "ブリュー・リンガーダ",
-		"tr_text": ""
+		"tr_text": "브류 리가더"
 	},
 	{
 		"assign": "6064",
 		"jp_text": "荘厳なる金色翼 ブリュー・リンガーダ",
-		"tr_text": ""
+		"tr_text": "장엄한 금색날개 브류 리가더"
 	},
 	{
 		"assign": "6065",
 		"jp_text": "ノーヴ・リンガダール",
-		"tr_text": ""
+		"tr_text": "노브 링가달"
 	},
 	{
 		"assign": "6066",
 		"jp_text": "堕の王 ノーヴ・リンガダール",
-		"tr_text": ""
+		"tr_text": "추락의 왕 노브 링가달"
 	},
 	{
 		"assign": "6067",
 		"jp_text": "シュトゥラーダ",
-		"tr_text": ""
+		"tr_text": "슈투라더"
 	},
 	{
 		"assign": "6068",
 		"jp_text": "黒突鳥 シュトゥラーダ",
-		"tr_text": ""
+		"tr_text": "흑돌조 슈투라더"
 	},
 	{
 		"assign": "6069",
 		"jp_text": "リューダソーサラー",
-		"tr_text": ""
+		"tr_text": "류다소서러"
 	},
 	{
 		"assign": "6070",
 		"jp_text": "双頭の黒鳥将 リューダソーサラー",
-		"tr_text": ""
+		"tr_text": "쌍두의 흑조장 류다소서러"
 	}
 ]

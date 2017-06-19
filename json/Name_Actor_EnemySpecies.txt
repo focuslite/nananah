@@ -1,68 +1,68 @@
-[
+﻿[
 	{
 		"assign": "Darker",
 		"jp_text": "ダーカー",
-		"tr_text": ""
+		"tr_text": "다커"
 	},
 	{
 		"assign": "Native",
 		"jp_text": "ナベリウス原生種",
-		"tr_text": ""
+		"tr_text": "나벨리우스 원생종"
 	},
 	{
 		"assign": "Machine",
 		"jp_text": "リリーパ機甲種",
-		"tr_text": ""
+		"tr_text": "리리파 기갑종"
 	},
 	{
 		"assign": "Dragon",
 		"jp_text": "龍族",
-		"tr_text": ""
+		"tr_text": "용족"
 	},
 	{
 		"assign": "Another",
 		"jp_text": "超時空エネミー",
-		"tr_text": ""
+		"tr_text": "초시공 에너미"
 	},
 	{
 		"assign": "Chimera",
 		"jp_text": "海王種",
-		"tr_text": ""
+		"tr_text": "해왕종"
 	},
 	{
 		"assign": "TitanBlack",
 		"jp_text": "黒の民",
-		"tr_text": ""
+		"tr_text": "흑의 주민"
 	},
 	{
 		"assign": "TitanWhite",
 		"jp_text": "白の民",
-		"tr_text": ""
+		"tr_text": "백의 주민"
 	},
 	{
 		"assign": "UltDarker",
 		"jp_text": "世壊種（DA）",
-		"tr_text": ""
+		"tr_text": "세괴종(DA)"
 	},
 	{
 		"assign": "UltNative",
 		"jp_text": "世壊種（NA）",
-		"tr_text": ""
+		"tr_text": "세괴종(NA)"
 	},
 	{
 		"assign": "UltMachine",
 		"jp_text": "世壊種（ＬＩ）",
-		"tr_text": ""
+		"tr_text": "세괴종(LI)"
 	},
 	{
 		"assign": "UltDragon",
 		"jp_text": "世壊種（AM）",
-		"tr_text": ""
+		"tr_text": "세괴종(AM)"
 	},
 	{
 		"assign": "Phantom",
 		"jp_text": "幻創種",
-		"tr_text": ""
+		"tr_text": "환창종"
 	},
 	{
 		"assign": "All",
@@ -72,6 +72,6 @@
 	{
 		"assign": "Generic",
 		"jp_text": "エネミー",
-		"tr_text": ""
+		"tr_text": "에너미"
 	}
 ]

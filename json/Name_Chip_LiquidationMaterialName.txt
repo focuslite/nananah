@@ -1,42 +1,42 @@
-[
+﻿[
 	{
 		"assign": "6501",
 		"jp_text": "炎のニャウ",
-		"tr_text": ""
+		"tr_text": "불꽃의 냐우"
 	},
 	{
 		"assign": "6502",
 		"jp_text": "氷のニャウ",
-		"tr_text": ""
+		"tr_text": "얼음의 냐우"
 	},
 	{
 		"assign": "6503",
 		"jp_text": "雷のニャウ",
-		"tr_text": ""
+		"tr_text": "천둥의 냐우"
 	},
 	{
 		"assign": "6504",
 		"jp_text": "風のニャウ",
-		"tr_text": ""
+		"tr_text": "바람의 냐우"
 	},
 	{
 		"assign": "6505",
 		"jp_text": "光のニャウ",
-		"tr_text": ""
+		"tr_text": "빛의 냐우"
 	},
 	{
 		"assign": "6506",
 		"jp_text": "闇のニャウ",
-		"tr_text": ""
+		"tr_text": "어둠의 냐우"
 	},
 	{
 		"assign": "6507",
 		"jp_text": "金のリリーパ",
-		"tr_text": ""
+		"tr_text": "금의 리리파"
 	},
 	{
 		"assign": "6508",
 		"jp_text": "銀のリリーパ",
-		"tr_text": ""
+		"tr_text": "은의 리리파"
 	}
 ]

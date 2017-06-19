@@ -1,68 +1,68 @@
-[
+﻿[
 	{
 		"assign": "6401",
 		"jp_text": "眠るラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 랏피"
 	},
 	{
 		"assign": "6402",
 		"jp_text": "ラッピー",
-		"tr_text": ""
+		"tr_text": "랏피"
 	},
 	{
 		"assign": "6403",
 		"jp_text": "歌うラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 랏피"
 	},
 	{
 		"assign": "6404",
 		"jp_text": "眠るラタン・ラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 라탄 랏피"
 	},
 	{
 		"assign": "6405",
 		"jp_text": "ラタン・ラッピー",
-		"tr_text": ""
+		"tr_text": "라탄 랏피"
 	},
 	{
 		"assign": "6406",
 		"jp_text": "歌うラタン・ラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 라탄 랏피"
 	},
 	{
 		"assign": "6407",
 		"jp_text": "眠るセント・ラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 세인트 랏피"
 	},
 	{
 		"assign": "6408",
 		"jp_text": "セント・ラッピー",
-		"tr_text": ""
+		"tr_text": "세인트 랏피"
 	},
 	{
 		"assign": "6409",
 		"jp_text": "歌うセント・ラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 세인트 랏피"
 	},
 	{
 		"assign": "6410",
 		"jp_text": "眠るラブ・ラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 러브 랏피"
 	},
 	{
 		"assign": "6411",
 		"jp_text": "ラブ・ラッピー",
-		"tr_text": ""
+		"tr_text": "러브 랏피"
 	},
 	{
 		"assign": "6412",
 		"jp_text": "歌うラブ・ラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 러브 랏피"
 	},
 	{
 		"assign": "6413",
 		"jp_text": "キング・ラッピー",
-		"tr_text": ""
+		"tr_text": "킹 랏피"
 	},
 	{
 		"assign": "6414",
@@ -77,56 +77,56 @@
 	{
 		"assign": "6416",
 		"jp_text": "眠るエグ・ラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 에그 랏피"
 	},
 	{
 		"assign": "6417",
 		"jp_text": "エグ・ラッピー",
-		"tr_text": ""
+		"tr_text": "에그 랏피"
 	},
 	{
 		"assign": "6418",
 		"jp_text": "歌うエグ・ラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 랏피"
 	},
 	{
 		"assign": "6419",
 		"jp_text": "眠るサマー・ラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 섬머 랏피"
 	},
 	{
 		"assign": "6420",
 		"jp_text": "サマー・ラッピー",
-		"tr_text": ""
+		"tr_text": "섬머 랏피"
 	},
 	{
 		"assign": "6421",
 		"jp_text": "歌うサマー・ラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 섬머 랏피"
 	},
 	{
 		"assign": "6422",
 		"jp_text": "Mr.アンブラ",
-		"tr_text": ""
+		"tr_text": "Mr.앙브라"
 	},
 	{
 		"assign": "6423",
 		"jp_text": "異次元の来訪者 Mr.アンブラ",
-		"tr_text": ""
+		"tr_text": "이차원의 방문자 Mr.앙브라"
 	},
 	{
 		"assign": "6424",
 		"jp_text": "眠るフログ・ラッピー",
-		"tr_text": ""
+		"tr_text": "잠든 프로그 랏피"
 	},
 	{
 		"assign": "6425",
 		"jp_text": "フログ・ラッピー",
-		"tr_text": ""
+		"tr_text": "프로그 랏피"
 	},
 	{
 		"assign": "6426",
 		"jp_text": "歌うフログ・ラッピー",
-		"tr_text": ""
+		"tr_text": "노래하는 프로그 랏피"
 	}
 ]
