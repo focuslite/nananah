@@ -17212,7 +17212,7 @@
 	{
 		"assign": "dialog_body_collect_search_use_free",
 		"jp_text": "「<%SHEET>」の\nコレクトサーチを実行します。よろしいですか？\n\n※コレクトサーチは毎日初回のみ無料で利用できます。\n２回目以降の利用には<%AC>が必要です。",
-		"tr_text": "「<%SHEET>」의\n콜렉트 서치를 실행합니다. 괜찮습니까?\n\n※콜렉트 서치는 매일 첫회만 무료로 이용할 수 있습니다.\n2번째 이후의 이용에는<%AC>이 필요합니다."
+		"tr_text": "「<%SHEET>」의\n콜렉트 서치를 실행합니다. 괜찮습니까?\n\n※콜렉트 서치는 매일 첫회만 무료입니다.\n2번째 이후의 이용에는<%AC>이 필요합니다."
 	},
 	{
 		"assign": "dialog_title_collect_search_use_ac",
