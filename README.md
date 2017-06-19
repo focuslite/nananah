@@ -1,5 +1,5 @@
 # 번역 현황
--완료-
+-완료-\n
 과금아이템				- Charged_Item
 게더링 어패류			- Item_Stack_GatFMatFish
 게더링 고기				- Item_Stack_GatOMatMeat
