@@ -6512,7 +6512,7 @@
 	{
 		"assign": "questresult_level_sorcery_def",
 		"jp_text": "法撃防御",
-		"tr_text": ""
+		"tr_text": "법격 방어"
 	},
 	{
 		"assign": "questresult_newitem_button",
@@ -7897,12 +7897,12 @@
 	{
 		"assign": "ui_chip_button_reinforce",
 		"jp_text": "チップ強化",
-		"tr_text": ""
+		"tr_text": "칩 강화"
 	},
 	{
 		"assign": "ui_chip_button_release",
 		"jp_text": "チップ解放",
-		"tr_text": ""
+		"tr_text": "칩 해방"
 	},
 	{
 		"assign": "ui_chip_percent",
@@ -8547,7 +8547,7 @@
 	{
 		"assign": "item_grind_technic_defense",
 		"jp_text": "法撃防御",
-		"tr_text": ""
+		"tr_text": "밥격 방어"
 	},
 	{
 		"assign": "classcounter_top",
@@ -13667,7 +13667,7 @@
 	{
 		"assign": "ItemDetail_Parameter_TitleCaption",
 		"jp_text": "<color=white>パラメータ</color>",
-		"tr_text": "color=white>파라메터</color>"
+		"tr_text": "<color=white>파라메터</color>"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AtkDefUp",
@@ -15342,7 +15342,7 @@
 	{
 		"assign": "pet_info_parameter_Mental",
 		"jp_text": "法撃防御",
-		"tr_text": ""
+		"tr_text": "법격 방어"
 	},
 	{
 		"assign": "pet_selectmenu_window_title",
@@ -15572,7 +15572,7 @@
 	{
 		"assign": "ItemDetail_WPCBoost_AddMental",
 		"jp_text": "法撃防御(+<%parameter>)",
-		"tr_text": ""
+		"tr_text": "법격 방어(+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddHP",
