@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"assign": "Darker",
 		"jp_text": "ダーカー",

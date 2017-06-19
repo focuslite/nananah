@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"assign": "MoveMotion_1",
 		"jp_text": "二足走行",
