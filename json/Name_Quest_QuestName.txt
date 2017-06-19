@@ -7,7 +7,7 @@
 	{
 		"assign": "1000901",
 		"jp_text": "バトル基礎訓練",
-		"tr_text": "배틀 기초 훈련"
+		"tr_text": "전투 기본 훈련"
 	},
 	{
 		"assign": "1000902",
@@ -17,17 +17,17 @@
 	{
 		"assign": "1001001",
 		"jp_text": "森の荒くれ者",
-		"tr_text": "숲의 난폭한 자"
+		"tr_text": "야생의 숲"
 	},
 	{
 		"assign": "1001002",
 		"jp_text": "ラッピー生態調査",
-		"tr_text": "랍피 생태 조사"
+		"tr_text": "랏삐 생태 조사"
 	},
 	{
 		"assign": "1001003",
 		"jp_text": "牙と爪",
-		"tr_text": "이빨과 손톱"
+		"tr_text": "송곳니과 발톱"
 	},
 	{
 		"assign": "1001004",
@@ -52,12 +52,12 @@
 	{
 		"assign": "1002002",
 		"jp_text": "縄張り争い",
-		"tr_text": "세력 다툼"
+		"tr_text": "영역다툼"
 	},
 	{
 		"assign": "1002003",
 		"jp_text": "森の王者ロックベア",
-		"tr_text": "숲의 왕자 록 베어"
+		"tr_text": "숲의 왕 록 베어"
 	},
 	{
 		"assign": "1003001",
@@ -82,17 +82,17 @@
 	{
 		"assign": "1004001",
 		"jp_text": "ダーカーの襲来",
-		"tr_text": ""
+		"tr_text": "다커 내습"
 	},
 	{
 		"assign": "1004002",
 		"jp_text": "龍族との戦い",
-		"tr_text": ""
+		"tr_text": "용족과의 전투"
 	},
 	{
 		"assign": "1004003",
 		"jp_text": "猛攻キャタドラン",
-		"tr_text": ""
+		"tr_text": "광폭한 캬타도란"
 	},
 	{
 		"assign": "1004004",
@@ -102,17 +102,17 @@
 	{
 		"assign": "1005001",
 		"jp_text": "炎の力を思い知れ！",
-		"tr_text": ""
+		"tr_text": "화염의 힘을 알아보자!"
 	},
 	{
 		"assign": "1005002",
 		"jp_text": "雪原に響く咆哮",
-		"tr_text": ""
+		"tr_text": "설원에서 울리는 포효"
 	},
 	{
 		"assign": "1005003",
 		"jp_text": "長鼻の原生種マルモス",
-		"tr_text": ""
+		"tr_text": "긴코 원생종 마모스"
 	},
 	{
 		"assign": "1005004",
@@ -122,587 +122,587 @@
 	{
 		"assign": "1006001",
 		"jp_text": "銀世界の異変",
-		"tr_text": ""
+		"tr_text": "은세계의 이변"
 	},
 	{
 		"assign": "1006002",
 		"jp_text": "凍りついた影",
-		"tr_text": ""
+		"tr_text": "얼어붙은 그림자"
 	},
 	{
 		"assign": "1006003",
 		"jp_text": "巨獣デ・マルモス",
-		"tr_text": ""
+		"tr_text": "거대야수 데 마모스"
 	},
 	{
 		"assign": "1011001",
 		"jp_text": "野生の饗宴",
-		"tr_text": ""
+		"tr_text": "야생의 향연"
 	},
 	{
 		"assign": "1011002",
 		"jp_text": "森林に伸びる影",
-		"tr_text": ""
+		"tr_text": "늘어지는 숲의 그림자"
 	},
 	{
 		"assign": "1011003",
 		"jp_text": "牙の包囲網",
-		"tr_text": ""
+		"tr_text": "송곳니의 포위망"
 	},
 	{
 		"assign": "1011004",
 		"jp_text": "紅の一閃カルターゴ",
-		"tr_text": ""
+		"tr_text": "붉은 위광의 카르타고"
 	},
 	{
 		"assign": "1011005",
 		"jp_text": "逆襲のロックベア",
-		"tr_text": ""
+		"tr_text": "록 베어의 역습"
 	},
 	{
 		"assign": "1012001",
 		"jp_text": "市街地の戦い",
-		"tr_text": ""
+		"tr_text": "시가지 전투"
 	},
 	{
 		"assign": "1012002",
 		"jp_text": "猛毒の恐怖",
-		"tr_text": ""
+		"tr_text": "맹독의 공포"
 	},
 	{
 		"assign": "1012003",
 		"jp_text": "ダーカーの猛攻",
-		"tr_text": ""
+		"tr_text": "다커의 맹공"
 	},
 	{
 		"assign": "1012004",
 		"jp_text": "毒の空爆の悪夢",
-		"tr_text": ""
+		"tr_text": "악몽의 독 공습"
 	},
 	{
 		"assign": "1012005",
 		"jp_text": "高速のエル・アーダ",
-		"tr_text": ""
+		"tr_text": "초 고속 엘 아다"
 	},
 	{
 		"assign": "1013001",
 		"jp_text": "凍土調査指令",
-		"tr_text": ""
+		"tr_text": "동토 조사 지침"
 	},
 	{
 		"assign": "1013002",
 		"jp_text": "氷上のダーカー",
-		"tr_text": ""
+		"tr_text": "빙상의 다커"
 	},
 	{
 		"assign": "1013003",
 		"jp_text": "雪原の巨人現る",
-		"tr_text": ""
+		"tr_text": "설원 거인 출현"
 	},
 	{
 		"assign": "1013004",
 		"jp_text": "マルモスを追え",
-		"tr_text": ""
+		"tr_text": "마모스 추적"
 	},
 	{
 		"assign": "1013005",
 		"jp_text": "雪原の王デ・マルモス",
-		"tr_text": ""
+		"tr_text": "설원의 왕 데-마모스"
 	},
 	{
 		"assign": "1014001",
 		"jp_text": "忍び寄る闇の尖兵",
-		"tr_text": ""
+		"tr_text": "기어오르는 어둠의 시너지"
 	},
 	{
 		"assign": "1014002",
 		"jp_text": "ダーカー大連戦",
-		"tr_text": ""
+		"tr_text": "다커 대 격전"
 	},
 	{
 		"assign": "1014003",
 		"jp_text": "闇の胎動",
-		"tr_text": ""
+		"tr_text": "태동하는 어둠"
 	},
 	{
 		"assign": "1014004",
 		"jp_text": "毒王と死神",
-		"tr_text": ""
+		"tr_text": "독의 사신"
 	},
 	{
 		"assign": "1014005",
 		"jp_text": "ウォルガーダの武威",
-		"tr_text": ""
+		"tr_text": "울가다의 무기"
 	},
 	{
 		"assign": "1021001",
 		"jp_text": "雷で機甲種を退けよ！",
-		"tr_text": ""
+		"tr_text": "뇌격으로 기갑종을 물리치자!"
 	},
 	{
 		"assign": "1021002",
 		"jp_text": "人型機甲種",
-		"tr_text": ""
+		"tr_text": "인간형 기갑종"
 	},
 	{
 		"assign": "1021003",
 		"jp_text": "鋼鉄の腕",
-		"tr_text": ""
+		"tr_text": "무쇠 기갑팔"
 	},
 	{
 		"assign": "1021004",
 		"jp_text": "機甲種の反撃",
-		"tr_text": ""
+		"tr_text": "기갑종의 반격"
 	},
 	{
 		"assign": "1021005",
 		"jp_text": "砂中の鋏獣グワナーダ",
-		"tr_text": ""
+		"tr_text": "모래괴수 구와나다의 집게"
 	},
 	{
 		"assign": "1022001",
 		"jp_text": "龍族の異変",
-		"tr_text": ""
+		"tr_text": "용족의 이변"
 	},
 	{
 		"assign": "1022002",
 		"jp_text": "猪突猛進",
-		"tr_text": ""
+		"tr_text": "저돌맹진"
 	},
 	{
 		"assign": "1022003",
 		"jp_text": "激昂の伸縮龍",
-		"tr_text": ""
+		"tr_text": "고무격양하는 용"
 	},
 	{
 		"assign": "1022004",
 		"jp_text": "闇の大群",
-		"tr_text": ""
+		"tr_text": "어둠의 떼"
 	},
 	{
 		"assign": "1022005",
 		"jp_text": "灼熱のヴォル・ドラゴン",
-		"tr_text": ""
+		"tr_text": "불타오르는 볼 드래곤"
 	},
 	{
 		"assign": "1023001",
 		"jp_text": "廃プラントを守る者",
-		"tr_text": ""
+		"tr_text": "폐공장을 지키는 자"
 	},
 	{
 		"assign": "1023002",
 		"jp_text": "鋼の狩人たち",
-		"tr_text": ""
+		"tr_text": "강철의 사냥꾼들"
 	},
 	{
 		"assign": "1023003",
 		"jp_text": "グワナーダ再臨",
-		"tr_text": ""
+		"tr_text": "구와나다의 재등장"
 	},
 	{
 		"assign": "1023004",
 		"jp_text": "人型機甲種調査指令",
-		"tr_text": ""
+		"tr_text": "인간형 기갑종 조사 지침 "
 	},
 	{
 		"assign": "1023005",
 		"jp_text": "対決トランマイザー",
-		"tr_text": ""
+		"tr_text": "트랜마이저 대결"
 	},
 	{
 		"assign": "1024001",
 		"jp_text": "イエーデ・ラッシュ",
-		"tr_text": ""
+		"tr_text": "이에데 러쉬"
 	},
 	{
 		"assign": "1024002",
 		"jp_text": "氷上の黒き怪魚",
-		"tr_text": ""
+		"tr_text": "빙상의 검은 괴어"
 	},
 	{
 		"assign": "1024003",
 		"jp_text": "マルモス大行進",
-		"tr_text": ""
+		"tr_text": "마모스의 대 행진"
 	},
 	{
 		"assign": "1024004",
 		"jp_text": "粉砕する巨身",
-		"tr_text": ""
+		"tr_text": "거신 분쇄"
 	},
 	{
 		"assign": "1024005",
 		"jp_text": "氷獄王スノウバンサー",
-		"tr_text": ""
+		"tr_text": "빙상의 왕자 스노우 밴서"
 	},
 	{
 		"assign": "1031001",
 		"jp_text": "鋭爪ファングバンサー",
-		"tr_text": ""
+		"tr_text": "날카로운 송곳니 스노우 밴서"
 	},
 	{
 		"assign": "1031002",
 		"jp_text": "森林に巣食うもの",
-		"tr_text": ""
+		"tr_text": "숲의 둥지를 튼 무언가들"
 	},
 	{
 		"assign": "1031003",
 		"jp_text": "怒りの鉄拳降臨",
-		"tr_text": ""
+		"tr_text": "강림하는 분노의 철권"
 	},
 	{
 		"assign": "1031004",
 		"jp_text": "喰われゆく森",
-		"tr_text": ""
+		"tr_text": "먹혀가는 숲"
 	},
 	{
 		"assign": "1031005",
 		"jp_text": "侵されし牙",
-		"tr_text": ""
+		"tr_text": "침범하는 송곳니"
 	},
 	{
 		"assign": "1032001",
 		"jp_text": "狂いゆく伸縮龍",
-		"tr_text": ""
+		"tr_text": "발광하며 늘어지는 용"
 	},
 	{
 		"assign": "1032002",
 		"jp_text": "火龍の第二形態",
-		"tr_text": ""
+		"tr_text": "화룡의 제 2 형태"
 	},
 	{
 		"assign": "1032003",
 		"jp_text": "ダーカーの巣",
-		"tr_text": ""
+		"tr_text": "다커의 둥지"
 	},
 	{
 		"assign": "1032004",
 		"jp_text": "突進龍の猛攻",
-		"tr_text": ""
+		"tr_text": "돌진하는 용의 맹공 "
 	},
 	{
 		"assign": "1032005",
 		"jp_text": "堕ちた翼",
-		"tr_text": ""
+		"tr_text": "추락하는 날개"
 	},
 	{
 		"assign": "1033001",
 		"jp_text": "暴走機関",
-		"tr_text": ""
+		"tr_text": "폭주하는 기관"
 	},
 	{
 		"assign": "1033002",
 		"jp_text": "侵食機甲種破壊指令",
-		"tr_text": ""
+		"tr_text": "침싱당한 기갑종 파괴 지령"
 	},
 	{
 		"assign": "1033003",
 		"jp_text": "砂の中からの襲撃",
-		"tr_text": ""
+		"tr_text": "모래속 습격"
 	},
 	{
 		"assign": "1033004",
 		"jp_text": "奈落への誘い",
-		"tr_text": ""
+		"tr_text": "나락으로 초대"
 	},
 	{
 		"assign": "1033005",
 		"jp_text": "暴走のトランマイザー",
-		"tr_text": ""
+		"tr_text": "폭주하는 트랜마이저"
 	},
 	{
 		"assign": "1034001",
 		"jp_text": "そびえ立つ黒壁",
-		"tr_text": ""
+		"tr_text": "우뚝 솟은 검은 벽"
 	},
 	{
 		"assign": "1034002",
 		"jp_text": "巨身の行軍",
-		"tr_text": ""
+		"tr_text": "거신의 행렬"
 	},
 	{
 		"assign": "1034003",
 		"jp_text": "黒鋼の盾",
-		"tr_text": ""
+		"tr_text": "흑철의 방패"
 	},
 	{
 		"assign": "1034004",
 		"jp_text": "侵食の巨身",
-		"tr_text": ""
+		"tr_text": "침식당한 거신"
 	},
 	{
 		"assign": "1034005",
 		"jp_text": "闇の王ダーク・ラグネ",
-		"tr_text": ""
+		"tr_text": "어둠의 왕 다크 아그라네"
 	},
 	{
 		"assign": "1041001",
 		"jp_text": "怒れる森の主",
-		"tr_text": ""
+		"tr_text": "성난 숲의 주인"
 	},
 	{
 		"assign": "1041002",
 		"jp_text": "守護獣の覚醒",
-		"tr_text": ""
+		"tr_text": "수호수의 각성"
 	},
 	{
 		"assign": "1041003",
 		"jp_text": "黒い森より出ずる者",
-		"tr_text": ""
+		"tr_text": "검은 숲에서 출현하는 자"
 	},
 	{
 		"assign": "1041004",
 		"jp_text": "狂乱の暴君",
-		"tr_text": ""
+		"tr_text": "광란의 폭군"
 	},
 	{
 		"assign": "1041005",
 		"jp_text": "流星乱舞",
-		"tr_text": ""
+		"tr_text": "유성난무"
 	},
 	{
 		"assign": "1042001",
 		"jp_text": "止まらぬ拡散",
-		"tr_text": ""
+		"tr_text": "멈출수없는 확산"
 	},
 	{
 		"assign": "1042002",
 		"jp_text": "地底からの刺突",
-		"tr_text": ""
+		"tr_text": "땅속에서 솟아오르는 자 "
 	},
 	{
 		"assign": "1042003",
 		"jp_text": "煉獄を総べし王",
-		"tr_text": ""
+		"tr_text": "연옥을 다스리는 자"
 	},
 	{
 		"assign": "1042004",
 		"jp_text": "狂える伸縮龍",
-		"tr_text": ""
+		"tr_text": "발광하며 늘어지는 용"
 	},
 	{
 		"assign": "1042005",
 		"jp_text": "火龍の第三形態",
-		"tr_text": ""
+		"tr_text": "화룡의 제 3 형태"
 	},
 	{
 		"assign": "1043001",
 		"jp_text": "鋼の檻の中で",
-		"tr_text": ""
+		"tr_text": "강철 우리속으로"
 	},
 	{
 		"assign": "1043002",
 		"jp_text": "鬼神のごとく",
-		"tr_text": ""
+		"tr_text": "귀신과 같이"
 	},
 	{
 		"assign": "1043003",
 		"jp_text": "鋏音迫りて",
-		"tr_text": ""
+		"tr_text": "다물은 가위 집게"
 	},
 	{
 		"assign": "1043004",
 		"jp_text": "止まらぬ暴走",
-		"tr_text": ""
+		"tr_text": "멈추지않는 폭주"
 	},
 	{
 		"assign": "1043005",
 		"jp_text": "暗い砂の底から",
-		"tr_text": ""
+		"tr_text": "어두운 모래 바닥에서"
 	},
 	{
 		"assign": "1044001",
 		"jp_text": "不浄なる爪",
-		"tr_text": ""
+		"tr_text": "더럽혀진 발톱"
 	},
 	{
 		"assign": "1044002",
 		"jp_text": "覇者の領域",
-		"tr_text": ""
+		"tr_text": "패자의 영토"
 	},
 	{
 		"assign": "1044003",
 		"jp_text": "巨人の逆上",
-		"tr_text": ""
+		"tr_text": "격양하는 거인"
 	},
 	{
 		"assign": "1044004",
 		"jp_text": "大地の申し子",
-		"tr_text": ""
+		"tr_text": "대지의 산물"
 	},
 	{
 		"assign": "1044005",
 		"jp_text": "絶対零度",
-		"tr_text": ""
+		"tr_text": "절대 영도"
 	},
 	{
 		"assign": "1045001",
 		"jp_text": "ダーカーの先陣を叩け！",
-		"tr_text": ""
+		"tr_text": "다커의 선봉을 공격하라"
 	},
 	{
 		"assign": "1045002",
 		"jp_text": "闇の群れを殲滅せよ！",
-		"tr_text": ""
+		"tr_text": "어둠의 무리를 섬멸해라!"
 	},
 	{
 		"assign": "1045003",
 		"jp_text": "黒き盾を砕け！",
-		"tr_text": ""
+		"tr_text": "어둠의 방패를 분쇄하라!"
 	},
 	{
 		"assign": "1045004",
 		"jp_text": "ダーカー本陣へ迫れ！",
-		"tr_text": ""
+		"tr_text": "다커 본진이 코앞이다!"
 	},
 	{
 		"assign": "1045005",
 		"jp_text": "市街地の決戦！",
-		"tr_text": ""
+		"tr_text": "시가지의 대결전!"
 	},
 	{
 		"assign": "1051001",
 		"jp_text": "コーエン博士を追って",
-		"tr_text": ""
+		"tr_text": "코헨 박사를 쫓아"
 	},
 	{
 		"assign": "1051002",
 		"jp_text": "蒼き翼龍ウィンディラ",
-		"tr_text": ""
+		"tr_text": "푸른날개의 윈드라"
 	},
 	{
 		"assign": "1051003",
 		"jp_text": "トリプル・サディニアン",
-		"tr_text": ""
+		"tr_text": "트리플 사디니안."
 	},
 	{
 		"assign": "1051004",
 		"jp_text": "翼龍と角龍",
-		"tr_text": ""
+		"tr_text": "날개짓는 용과 사각의 용"
 	},
 	{
 		"assign": "1051005",
 		"jp_text": "浮遊大陸の地底から",
-		"tr_text": ""
+		"tr_text": "부유대륙의 땅으로부터"
 	},
 	{
 		"assign": "1052001",
 		"jp_text": "ダガン・フォーメーション",
-		"tr_text": ""
+		"tr_text": "다간 포메이션"
 	},
 	{
 		"assign": "1052002",
 		"jp_text": "ダガッチャ・スポット",
-		"tr_text": ""
+		"tr_text": "다걋차 스폿"
 	},
 	{
 		"assign": "1052003",
 		"jp_text": "カルターゴ・スクラム",
-		"tr_text": ""
+		"tr_text": "카르타고 스크럼"
 	},
 	{
 		"assign": "1052004",
 		"jp_text": "ダーカー・アサルト",
-		"tr_text": ""
+		"tr_text": "다커 어설트"
 	},
 	{
 		"assign": "1052005",
 		"jp_text": "ウォルガーダ・アタック",
-		"tr_text": ""
+		"tr_text": "울가다 어택"
 	},
 	{
 		"assign": "1053001",
 		"jp_text": "飛躍のギルナス",
-		"tr_text": ""
+		"tr_text": "도약하는 길나스"
 	},
 	{
 		"assign": "1053002",
 		"jp_text": "疾風のシグノビート",
-		"tr_text": ""
+		"tr_text": "질풍의 시그노 비트"
 	},
 	{
 		"assign": "1053003",
 		"jp_text": "火線のスパルダン",
-		"tr_text": ""
+		"tr_text": "화망의 스파루단"
 	},
 	{
 		"assign": "1053004",
 		"jp_text": "砂塵のダーカー",
-		"tr_text": ""
+		"tr_text": "모래의 다커"
 	},
 	{
 		"assign": "1053005",
 		"jp_text": "反撃のトランマイザー",
-		"tr_text": ""
+		"tr_text": "트랜마이저의 반격"
 	},
 	{
 		"assign": "1054001",
 		"jp_text": "博士はどこに！？",
-		"tr_text": ""
+		"tr_text": "박사는 어디에!?"
 	},
 	{
 		"assign": "1054002",
 		"jp_text": "双璧の翼龍",
-		"tr_text": ""
+		"tr_text": "쌍날개의 용"
 	},
 	{
 		"assign": "1054003",
 		"jp_text": "天空の地上戦",
-		"tr_text": ""
+		"tr_text": "하늘위에 지상전"
 	},
-	{
-		"assign": "1054004",
-		"jp_text": "浮遊大陸の大捜索",
-		"tr_text": ""
+		{
+			"assign": "1054004",
+			"jp_text": "浮遊大陸の大捜索",
+			"tr_text": "부유 대륙 대 수색"
 	},
 	{
 		"assign": "1054005",
 		"jp_text": "クォーツ・ドラゴンの光芒",
-		"tr_text": ""
+		"tr_text": "광명하는 쿼츠 드래곤"
 	},
 	{
 		"assign": "1061001",
 		"jp_text": "遺跡へのルート探索",
-		"tr_text": ""
+		"tr_text": "유적 경로 탐색"
 	},
 	{
 		"assign": "1061002",
 		"jp_text": "氷原を越えて",
-		"tr_text": ""
+		"tr_text": "설원을 넘어"
 	},
 	{
 		"assign": "1061003",
 		"jp_text": "敏捷なる野獣",
-		"tr_text": ""
+		"tr_text": "민첩한 괴수"
 	},
 	{
 		"assign": "1061004",
 		"jp_text": "行く手を阻むデ・マルモス",
-		"tr_text": ""
+		"tr_text": "앞길을 막는 데 마모스"
 	},
 	{
 		"assign": "1061005",
 		"jp_text": "凍土の君臨者",
-		"tr_text": ""
+		"tr_text": "동토를 군림하는 자"
 	},
 	{
 		"assign": "1062001",
 		"jp_text": "遺跡エリア探索",
-		"tr_text": ""
+		"tr_text": "유적의 침식도 조사"
 	},
 	{
 		"assign": "1062002",
 		"jp_text": "遺跡の侵食度調査",
-		"tr_text": ""
+		"tr_text": "유적의 침식도 조사"
 	},
 	{
 		"assign": "1062003",
 		"jp_text": "強撃のウォルガーダ",
-		"tr_text": ""
+		"tr_text": "힘겨루는 울가다"
 	},
 	{
 		"assign": "1062004",
 		"jp_text": "驚きの遭遇！",
-		"tr_text": ""
+		"tr_text": "깜짝만남!"
 	},
 	{
 		"assign": "1062005",
