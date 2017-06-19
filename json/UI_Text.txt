@@ -5632,7 +5632,7 @@
 	{
 		"assign": "reward_enemy_lv_high",
 		"jp_text": "高",
-		"tr_text": "높음"
+		"tr_text": "높은"
 	},
 	{
 		"assign": "reward_enemy_lv_middle",
@@ -5642,7 +5642,7 @@
 	{
 		"assign": "reward_enemy_lv_low",
 		"jp_text": "低",
-		"tr_text": "낮음"
+		"tr_text": "낮은"
 	},
 	{
 		"assign": "reward_enemy_name",
@@ -13582,82 +13582,82 @@
 	{
 		"assign": "raid_n_clear",
 		"jp_text": "おめでとうございます！\nあなたのおかげで、目標を討伐できました。\n本当に感謝しています！",
-		"tr_text": ""
+		"tr_text": "축하합니다!\n당신 덕분에, 목표를 토벌할 수 있었습니다.\n정말 감사합니다!"
 	},
 	{
 		"assign": "raid_n_great",
 		"jp_text": "大ダメージを与えたことで目標が逃走しました。\nただ、目標の体力はかなり低下しています。\n引き続き挑戦して、討伐を目指しましょう！",
-		"tr_text": ""
+		"tr_text": "큰 데미지를 준 것으로 목표가 도망쳤습니다.\n하지만, 목표의 체력은 크게 감소했습니다.\n계속 도전해서, 토벌을 목표로 하죠!"
 	},
 	{
 		"assign": "raid_n_good",
 		"jp_text": "目標が逃走しました。\n攻撃したぶんの体力は低下しているので\n引き続き挑戦して、討伐を目指しましょう！",
-		"tr_text": ""
+		"tr_text": "목표가 도주했습니다.\n공격한 만큼 체력이 감소했기에\n계속 도전해서, 토벌을 목표로 하죠!"
 	},
 	{
 		"assign": "raid_n_hp01",
 		"jp_text": "もはや目標はいつ倒れてもおかしくありません！\n勝利は目前！\nさあ、この戦いに決着をつけてください！",
-		"tr_text": ""
+		"tr_text": "이제 목표는 언제 쓰러져도 이상하지 않아요!\n승리가 눈앞에!\n자, 이 싸움을 끝내주세요!"
 	},
 	{
 		"assign": "raid_n_hp02",
 		"jp_text": "あと少しで、目標を討伐できそうです！\nここまで来たら根くらべです。がんばって！",
-		"tr_text": ""
+		"tr_text": "앞으로 조금만 하면, 목표를 토벌할 수 있어요!\n이제부턴 근성 싸움이에요. 힘내세요!"
 	},
 	{
 		"assign": "raid_n_hp03",
 		"jp_text": "目標の体力、半減！\nいいですよ、攻撃が効果的に機能しています。",
-		"tr_text": ""
+		"tr_text": "목표의 체력, 반감!\n좋아요, 공격이 효과적으로 먹혀들고 있어요."
 	},
 	{
 		"assign": "raid_n_hp04",
 		"jp_text": "着々と目標の体力が減りつつあります。\nこの調子でがんばっていきましょう！",
-		"tr_text": ""
+		"tr_text": "차근차근 목표의 체력이 감소하고 있습니다.\n이런 식으로 노력해 봅시다!"
 	},
 	{
 		"assign": "raid_n_hp05",
 		"jp_text": "目標の体力はまだまだ残っています。\nこのまま継続してダメージを与えていきましょう。",
-		"tr_text": ""
+		"tr_text": "목표의 체력은 아직 남아있습니다.\n이대로 계속 데미지를 주도록 하죠."
 	},
 	{
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
-		"tr_text": ""
+		"tr_text": "목표의 토별을 형해서 노력하죠.\n힘껏 응원하고 있어요!"
 	},
 	{
 		"assign": "raid_log_00",
 		"jp_text": "クエストを開始しました。",
-		"tr_text": ""
+		"tr_text": "퀘스트를 개시했습니다."
 	},
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"tr_text": ""
+		"tr_text": "목표"
 	},
 	{
 		"assign": "raid_log_02",
 		"jp_text": "ダメージを与えました。",
-		"tr_text": ""
+		"tr_text": "데미지를 입혔다"
 	},
 	{
 		"assign": "raid_dialog_t_00",
 		"jp_text": "緊急クエスト",
-		"tr_text": ""
+		"tr_text": "긴급퀘스트"
 	},
 	{
 		"assign": "raid_dialog_b_00",
 		"jp_text": "緊急クエストの発生期間は終了しました。\nロビートップに戻ります。",
-		"tr_text": ""
+		"tr_text": "긴급 퀘스트의 발생 시간이 지났습니다.\n로비 메인으로 돌아갑니다."
 	},
 	{
 		"assign": "raid_relief_line_text_00",
 		"jp_text": "チェックしたフレンドに救援要請を送ります。",
-		"tr_text": ""
+		"tr_text": "체크한 친구에게 도움 요청을 보냅니다."
 	},
 	{
 		"assign": "raid_relief_line_text_01",
 		"jp_text": "チェックしたプレイヤーに救援要請を送ります。",
-		"tr_text": ""
+		"tr_text": "체크한 플레이어에게 도움 요청을 보냅니다."
 	},
 	{
 		"assign": "ItemDetail_Summary_WPCategory",
@@ -13667,7 +13667,7 @@
 	{
 		"assign": "ItemDetail_Parameter_TitleCaption",
 		"jp_text": "<color=white>パラメータ</color>",
-		"tr_text": ""
+		"tr_text": "color=white>파라메터</color>"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AtkDefUp",
@@ -13697,42 +13697,42 @@
 	{
 		"assign": "ItemDetail_Parameter_AttrFire",
 		"jp_text": "炎属性       /",
-		"tr_text": ""
+		"tr_text": "염속성       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrIce",
 		"jp_text": "氷属性       /",
-		"tr_text": ""
+		"tr_text": "빙속성       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrThunder",
 		"jp_text": "雷属性       /",
-		"tr_text": ""
+		"tr_text": "뇌속성       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrWind",
 		"jp_text": "風属性       /",
-		"tr_text": ""
+		"tr_text": "풍속성       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrLight",
 		"jp_text": "光属性       /",
-		"tr_text": ""
+		"tr_text": "명속성       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrDark",
 		"jp_text": "闇属性       /",
-		"tr_text": ""
+		"tr_text": "암속성       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_StrengthenCaption",
 		"jp_text": "強化値       /",
-		"tr_text": ""
+		"tr_text": "강화치       /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_ExtendCaption",
 		"jp_text": "エクステンド /",
-		"tr_text": ""
+		"tr_text": "익스텐드 /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_Up",
@@ -13752,17 +13752,17 @@
 	{
 		"assign": "ItemDetail_EquipCondition_TitleCaption",
 		"jp_text": "<color=white>適性クラス</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>적성 클래스</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_JobCaption",
 		"jp_text": "<color=white>クラス /</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>클래스 /</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_AllClass",
 		"jp_text": "<color=white>全クラス</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>모든 클래스</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_ClassName",
@@ -13772,7 +13772,7 @@
 	{
 		"assign": "ItemDetail_EquipSkill_TitleCaption",
 		"jp_text": "<color=white>習熟度</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>숙련도</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_Insufficiency",
@@ -13822,37 +13822,37 @@
 	{
 		"assign": "ItemDetail_Correction_Attack",
 		"jp_text": "<color=white>打撃力 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>타격력 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Shooting",
 		"jp_text": "<color=white>射撃力 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>사격력 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Sorcery",
 		"jp_text": "<color=white>法撃力 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>법격력 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Skill",
 		"jp_text": "<color=white>技量 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>기량 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackDefence",
 		"jp_text": "<color=white>打撃防御 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>타격 방어 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingDefence",
 		"jp_text": "<color=white>射撃防御 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>사격 방어 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryDefence",
 		"jp_text": "<color=white>法撃防御 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>법격 방어 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_HP",
@@ -13867,47 +13867,47 @@
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
 		"jp_text": "<color=white>打撃軽減 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>타격 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
 		"jp_text": "<color=white>射撃軽減 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>사격 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
 		"jp_text": "<color=white>法撃軽減 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>법격 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
 		"jp_text": "<color=white>炎耐性 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>염속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Ice",
 		"jp_text": "<color=white>氷耐性 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>빙속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Thunder",
 		"jp_text": "<color=white>雷耐性 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>뇌속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Wind",
 		"jp_text": "<color=white>風耐性 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>풍속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Light",
 		"jp_text": "<color=white>光耐性 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>빛속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Dark",
 		"jp_text": "<color=white>闇耐性 (+<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>암속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Ability_Name",
@@ -14112,22 +14112,22 @@
 	{
 		"assign": "RaidEvent_tab_00",
 		"jp_text": "進行状況",
-		"tr_text": ""
+		"tr_text": "진행 상황"
 	},
 	{
 		"assign": "RaidEvent_tab_01",
 		"jp_text": "イベント報酬",
-		"tr_text": ""
+		"tr_text": "이벤트 보수"
 	},
 	{
 		"assign": "RaidEvent_tab_02",
 		"jp_text": "ボーナススクラッチ",
-		"tr_text": ""
+		"tr_text": "보너스 스크래치"
 	},
 	{
 		"assign": "RaidEvent_tab_03",
 		"jp_text": "ランキング",
-		"tr_text": ""
+		"tr_text": "랭킹"
 	},
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-0",
@@ -17157,7 +17157,7 @@
 	{
 		"assign": "collect_search_lap_text",
 		"jp_text": "あと",
-		"tr_text": "앞으로"
+		"tr_text": "회복:"
 	},
 	{
 		"assign": "collect_search_drop_rate_text",
