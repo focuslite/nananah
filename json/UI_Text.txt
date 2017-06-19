@@ -5142,7 +5142,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"tr_text": "앞으로"
+		"tr_text": "회복:"
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -13587,7 +13587,7 @@
 	{
 		"assign": "raid_n_great",
 		"jp_text": "大ダメージを与えたことで目標が逃走しました。\nただ、目標の体力はかなり低下しています。\n引き続き挑戦して、討伐を目指しましょう！",
-		"tr_text": "큰 데미지를 준 것으로 목표가 도망쳤습니다.\n하지만, 목표의 체력은 크게 감소했습니다.\n계속 도전해서, 토벌을 목표로 하죠!"
+		"tr_text": "큰 데미지를 준 것으로 목표가 도망쳤습니다.\n하지만, 목표의 체력은 크게 감소했으니\n계속 도전해서, 토벌을 목표로 하죠!"
 	},
 	{
 		"assign": "raid_n_good",
@@ -13622,7 +13622,7 @@
 	{
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
-		"tr_text": "목표의 토별을 형해서 노력하죠.\n힘껏 응원하고 있어요!"
+		"tr_text": "목표의 토별을 향해 노력하죠.\n힘껏 응원하고 있어요!"
 	},
 	{
 		"assign": "raid_log_00",
@@ -13632,12 +13632,12 @@
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"tr_text": "목표"
+		"tr_text": "목표에게 "
 	},
 	{
 		"assign": "raid_log_02",
 		"jp_text": "ダメージを与えました。",
-		"tr_text": "데미지를 입혔다"
+		"tr_text": " 데미지를 입힘"
 	},
 	{
 		"assign": "raid_dialog_t_00",
@@ -16327,22 +16327,22 @@
 	{
 		"assign": "sort_rarity",
 		"jp_text": "レアリティ順",
-		"tr_text": ""
+		"tr_text": "레어리티 순"
 	},
 	{
 		"assign": "sort_cost",
 		"jp_text": "コスト順",
-		"tr_text": ""
+		"tr_text": "코스트 순"
 	},
 	{
 		"assign": "sort_level",
 		"jp_text": "レベル順",
-		"tr_text": ""
+		"tr_text": "레벨 순"
 	},
 	{
 		"assign": "sort_other",
 		"jp_text": "その他",
-		"tr_text": ""
+		"tr_text": "그 외에"
 	},
 	{
 		"assign": "sort_category",
@@ -16372,17 +16372,17 @@
 	{
 		"assign": "sort_new",
 		"jp_text": "新しい",
-		"tr_text": ""
+		"tr_text": "최근"
 	},
 	{
 		"assign": "sort_old",
 		"jp_text": "古い",
-		"tr_text": ""
+		"tr_text": "오래됨"
 	},
 	{
 		"assign": "sort_high",
 		"jp_text": "高い",
-		"tr_text": ""
+		"tr_text": "높음"
 	},
 	{
 		"assign": "sort_low",
@@ -17087,7 +17087,7 @@
 	{
 		"assign": "reward_button_next",
 		"jp_text": "次へ",
-		"tr_text": ""
+		"tr_text": "다음"
 	},
 	{
 		"assign": "base_item_special_weapon",
