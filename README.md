@@ -1,7 +1,8 @@
 번역 현황
 =============
 번역 완료
--------------<br>
+-------------
+<br>
 * 과금아이템				- Charged_Item<br>
 * 게더링 어패류			- Item_Stack_GatFMatFish<br>
 * 게더링 고기				- Item_Stack_GatOMatMeat<br>
