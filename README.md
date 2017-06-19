@@ -2,7 +2,7 @@
 =============
 번역 완료
 -------------<br>
-*과금아이템				- Charged_Item
+* 과금아이템				- Charged_Item
 *게더링 어패류			- Item_Stack_GatFMatFish
 *게더링 고기				- Item_Stack_GatOMatMeat
 *게더링 기타				- Item_Stack_GatOMatOther
