@@ -2,7 +2,7 @@
 	{
 		"assign": "Forest",
 		"jp_text": "ef_01_forest",
-		"tr_text": ""
+		"tr_text": "앙테스트기모띠"
 	},
 	{
 		"assign": "LavaCave",
