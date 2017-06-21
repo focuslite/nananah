@@ -1967,7 +1967,7 @@
 	{
 		"assign": "labo_dialog_b_00",
 		"jp_text": "選択中の素材チップをリセットして\n強化チップ選択画面に戻ります。\nよろしいですか？",
-		"tr_text": "선택하고 있는 칩을 리셋 하고,\n강화 칩 서택 화면으로 돌아갑니다.\n괜찮습니까?"
+		"tr_text": "선택하고 있는 칩을 리셋 하고,\n강화 칩 선택 화면으로 돌아갑니다.\n괜찮습니까?"
 	},
 	{
 		"assign": "labo_dialog_t_01",
@@ -3282,7 +3282,7 @@
 	{
 		"assign": "myshop_guide_01",
 		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索します。検索条件を入力し、いずれかの検索ボタンを押してください。</color>",
-		"tr_text": ""
+		"tr_text": "여기서 부터 번역해야됨"
 	},
 	{
 		"assign": "myshop_guide_02",
@@ -5897,12 +5897,12 @@
 	{
 		"assign": "scratch_dialog_t_11",
 		"jp_text": "購入確認",
-		"tr_text": ""
+		"tr_text": "구매 확인"
 	},
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"tr_text": "랍피 메달 {0}장으로\n{1}을(를){2}회 뽑습니다.\n괜찮습니까?\n현재 메달 수 :{3}장\n"
+		"tr_text": "랍피 메달 {0}장으로\n{1}을(를){2} 회 뽑습니다.\n괜찮습니까?\n현재 메달 수 : {3}장\n"
 	},
 	{
 		"assign": "scratch_message_02",
@@ -7772,7 +7772,7 @@
 	{
 		"assign": "chip_window_select",
 		"jp_text": "チップ選択",
-		"tr_text": "칩 서택"
+		"tr_text": "칩 선택"
 	},
 	{
 		"assign": "chip_window_reinforce",
@@ -8782,92 +8782,92 @@
 	{
 		"assign": "wa_sword",
 		"jp_text": "大剣",
-		"tr_text": "대검"
+		"tr_text": "소드"
 	},
 	{
 		"assign": "wa_wired_lance",
 		"jp_text": "自在槍",
-		"tr_text": "자재창"
+		"tr_text": "와이어드 랜스"
 	},
 	{
 		"assign": "wa_partisan",
 		"jp_text": "長槍",
-		"tr_text": "장창"
+		"tr_text": "파르티잔"
 	},
 	{
 		"assign": "wa_double_saber",
 		"jp_text": "両剣",
-		"tr_text": "양검"
+		"tr_text": "더블 세이버"
 	},
 	{
 		"assign": "wa_twin_dagger",
 		"jp_text": "双小剣",
-		"tr_text": ""
+		"tr_text": "트윈 대거"
 	},
 	{
 		"assign": "wa_knuckle",
 		"jp_text": "鋼拳",
-		"tr_text": "강권"
+		"tr_text": "너클"
 	},
 	{
 		"assign": "wa_gun_slash",
 		"jp_text": "銃剣",
-		"tr_text": "총검"
+		"tr_text": "건 슬래쉬"
 	},
 	{
 		"assign": "wa_assault_rifle",
 		"jp_text": "長銃",
-		"tr_text": "장총"
+		"tr_text": "어썰트 라이플"
 	},
 	{
 		"assign": "wa_launcher",
 		"jp_text": "大砲",
-		"tr_text": "대포"
+		"tr_text": "런쳐"
 	},
 	{
 		"assign": "wa_twin_machinegun",
 		"jp_text": "双機銃",
-		"tr_text": "쌍기총"
+		"tr_text": "트윈 머신건"
 	},
 	{
 		"assign": "wa_rod",
 		"jp_text": "長杖",
-		"tr_text": "장장"
+		"tr_text": "로드"
 	},
 	{
 		"assign": "wa_talis",
 		"jp_text": "導具",
-		"tr_text": "도구"
+		"tr_text": "탈리스"
 	},
 	{
 		"assign": "wa_wand",
 		"jp_text": "短杖",
-		"tr_text": "단장"
+		"tr_text": "완드"
 	},
 	{
 		"assign": "wa_katana",
 		"jp_text": "抜剣",
-		"tr_text": "발검"
+		"tr_text": "카타나"
 	},
 	{
 		"assign": "wa_compoundbow",
 		"jp_text": "強弓",
-		"tr_text": "강궁"
+		"tr_text": "바렛 보우"
 	},
 	{
 		"assign": "wa_jetboots",
 		"jp_text": "魔装脚",
-		"tr_text": "마장족"
+		"tr_text": "제트 부츠"
 	},
 	{
 		"assign": "wa_dualblade",
 		"jp_text": "飛翔剣",
-		"tr_text": "비상검"
+		"tr_text": "듀얼 블레이드"
 	},
 	{
 		"assign": "wa_tact",
 		"jp_text": "奏具",
-		"tr_text": "주구"
+		"tr_text": "택트"
 	},
 	{
 		"assign": "loginbonus_fun",
@@ -13902,7 +13902,7 @@
 	{
 		"assign": "ItemDetail_Correction_Light",
 		"jp_text": "<color=white>光耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>빛속성 내성 (+<%parameter>)</color>"
+		"tr_text": "<color=white>명속성 내성 (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Dark",
@@ -16347,27 +16347,27 @@
 	{
 		"assign": "sort_category",
 		"jp_text": "カテゴリ順",
-		"tr_text": ""
+		"tr_text": "카테고리 순"
 	},
 	{
 		"assign": "sort_attribute",
 		"jp_text": "属性順",
-		"tr_text": ""
+		"tr_text": "속성 순"
 	},
 	{
 		"assign": "sort_attributevalue",
 		"jp_text": "属性値順",
-		"tr_text": ""
+		"tr_text": "속성 값 순"
 	},
 	{
 		"assign": "sort_hp",
 		"jp_text": "HP順",
-		"tr_text": ""
+		"tr_text": "HP 순"
 	},
 	{
 		"assign": "sort_cp",
 		"jp_text": "CP順",
-		"tr_text": ""
+		"tr_text": "CP 순"
 	},
 	{
 		"assign": "sort_new",
@@ -16387,172 +16387,172 @@
 	{
 		"assign": "sort_low",
 		"jp_text": "低い",
-		"tr_text": ""
+		"tr_text": "낮음"
 	},
 	{
 		"assign": "filter_title",
 		"jp_text": "フィルター",
-		"tr_text": ""
+		"tr_text": "필터"
 	},
 	{
 		"assign": "filter_title_on",
 		"jp_text": "フィルターON",
-		"tr_text": ""
+		"tr_text": "필터 ON"
 	},
 	{
 		"assign": "filter_title_off",
 		"jp_text": "フィルターOFF",
-		"tr_text": ""
+		"tr_text": "필터 OFF"
 	},
 	{
 		"assign": "filter_attribute",
 		"jp_text": "属性",
-		"tr_text": ""
+		"tr_text": "속성"
 	},
 	{
 		"assign": "filter_rarity",
 		"jp_text": "レアリティ",
-		"tr_text": ""
+		"tr_text": "레어리티"
 	},
 	{
 		"assign": "filter_category",
 		"jp_text": "発動タイプ",
-		"tr_text": ""
+		"tr_text": "발동 타입"
 	},
 	{
 		"assign": "filter_state",
 		"jp_text": "チップの状態",
-		"tr_text": ""
+		"tr_text": "칩의 상태"
 	},
 	{
 		"assign": "filter_kind",
 		"jp_text": "カテゴリ",
-		"tr_text": ""
+		"tr_text": "카테고리"
 	},
 	{
 		"assign": "filter_wepstate",
 		"jp_text": "ウェポノイド能力",
-		"tr_text": ""
+		"tr_text": "웨포노이드 능력"
 	},
 	{
 		"assign": "filter_user",
 		"jp_text": "ユーザー機能",
-		"tr_text": ""
+		"tr_text": "유저 기능"
 	},
 	{
 		"assign": "filter_fire",
 		"jp_text": "炎",
-		"tr_text": ""
+		"tr_text": "염"
 	},
 	{
 		"assign": "filter_ice",
 		"jp_text": "氷",
-		"tr_text": ""
+		"tr_text": "빙"
 	},
 	{
 		"assign": "filter_thunder",
 		"jp_text": "雷",
-		"tr_text": ""
+		"tr_text": "뇌"
 	},
 	{
 		"assign": "filter_wind",
 		"jp_text": "風",
-		"tr_text": ""
+		"tr_text": "풍"
 	},
 	{
 		"assign": "filter_light",
 		"jp_text": "光",
-		"tr_text": ""
+		"tr_text": "명"
 	},
 	{
 		"assign": "filter_dark",
 		"jp_text": "闇",
-		"tr_text": ""
+		"tr_text": "암"
 	},
 	{
 		"assign": "filter_active",
 		"jp_text": "アクティブ",
-		"tr_text": ""
+		"tr_text": "액티브"
 	},
 	{
 		"assign": "filter_support",
 		"jp_text": "サポート",
-		"tr_text": ""
+		"tr_text": "서포트"
 	},
 	{
 		"assign": "filter_releasebef",
 		"jp_text": "チップ解放前",
-		"tr_text": ""
+		"tr_text": "칩 해방 전"
 	},
 	{
 		"assign": "filter_releaseaft",
 		"jp_text": "チップ解放後",
-		"tr_text": ""
+		"tr_text": "칩 해방 후"
 	},
 	{
 		"assign": "filter_canlvup",
 		"jp_text": "チップＬｖＵＰ可",
-		"tr_text": ""
+		"tr_text": "칩 Lv Up 가능"
 	},
 	{
 		"assign": "filter_canabilvup",
 		"jp_text": "アビリティＬｖＵＰ可",
-		"tr_text": ""
+		"tr_text": "어빌리티 Lv Up 가능"
 	},
 	{
 		"assign": "filter_character",
 		"jp_text": "キャラクター",
-		"tr_text": ""
+		"tr_text": "캐릭터"
 	},
 	{
 		"assign": "filter_weaponoid",
 		"jp_text": "ウェポノイド",
-		"tr_text": ""
+		"tr_text": "웨포노이드"
 	},
 	{
 		"assign": "filter_patec",
 		"jp_text": "必殺技・法術",
-		"tr_text": ""
+		"tr_text": "필살기 법술"
 	},
 	{
 		"assign": "filter_boost",
 		"jp_text": "激化・特化",
-		"tr_text": ""
+		"tr_text": "격화 특화"
 	},
 	{
 		"assign": "filter_item",
 		"jp_text": "アイテム",
-		"tr_text": ""
+		"tr_text": "아이템"
 	},
 	{
 		"assign": "filter_dimension",
 		"jp_text": "超時空",
-		"tr_text": ""
+		"tr_text": "초시공"
 	},
 	{
 		"assign": "filter_enemy",
 		"jp_text": "エネミー",
-		"tr_text": ""
+		"tr_text": "에너미"
 	},
 	{
 		"assign": "filter_wepreleasebef",
 		"jp_text": "能力解放前",
-		"tr_text": ""
+		"tr_text": "능력 개방 이전"
 	},
 	{
 		"assign": "filter_wepreleaseaft",
 		"jp_text": "能力解放後",
-		"tr_text": ""
+		"tr_text": "능력 개방 이후"
 	},
 	{
 		"assign": "filter_favorite",
 		"jp_text": "お気に入り",
-		"tr_text": ""
+		"tr_text": "즐겨찾기"
 	},
 	{
 		"assign": "filter_unfavorite",
 		"jp_text": "お気に入り以外",
-		"tr_text": ""
+		"tr_text": "즐겨찾기 이외"
 	},
 	{
 		"assign": "story_event_end_text_1",
@@ -16567,232 +16567,232 @@
 	{
 		"assign": "LimitWeaponGunSlash",
 		"jp_text": "銃剣",
-		"tr_text": ""
+		"tr_text": "건 슬래쉬"
 	},
 	{
 		"assign": "LimitWeaponSword",
 		"jp_text": "大剣",
-		"tr_text": ""
+		"tr_text": "소드"
 	},
 	{
 		"assign": "LimitWeaponPartizan",
 		"jp_text": "長槍",
-		"tr_text": ""
+		"tr_text": "파르티잔"
 	},
 	{
 		"assign": "LimitWeaponWiredLance",
 		"jp_text": "自在槍",
-		"tr_text": ""
+		"tr_text": "와이어드 랜스"
 	},
 	{
 		"assign": "LimitWeaponAssaultRifle",
 		"jp_text": "長銃",
-		"tr_text": ""
+		"tr_text": "어썰트 라이플"
 	},
 	{
 		"assign": "LimitWeaponLauncher",
 		"jp_text": "大砲",
-		"tr_text": ""
+		"tr_text": "런쳐"
 	},
 	{
 		"assign": "LimitWeaponRod",
 		"jp_text": "長杖",
-		"tr_text": ""
+		"tr_text": "로드"
 	},
 	{
 		"assign": "LimitWeaponTalis",
 		"jp_text": "導具",
-		"tr_text": ""
+		"tr_text": "탈리스"
 	},
 	{
 		"assign": "LimitWeaponKnuckle",
 		"jp_text": "鋼拳",
-		"tr_text": ""
+		"tr_text": "너클"
 	},
 	{
 		"assign": "LimitWeaponTwinDagger",
 		"jp_text": "双小剣",
-		"tr_text": ""
+		"tr_text": "트윈 대거"
 	},
 	{
 		"assign": "LimitWeaponDoubleSaber",
 		"jp_text": "両剣",
-		"tr_text": ""
+		"tr_text": "더블 세이버"
 	},
 	{
 		"assign": "LimitWeaponWand",
 		"jp_text": "短杖",
-		"tr_text": ""
+		"tr_text": "완드"
 	},
 	{
 		"assign": "LimitWeaponTwinMachineGun",
 		"jp_text": "双機銃",
-		"tr_text": ""
+		"tr_text": "트윈 머신건"
 	},
 	{
 		"assign": "LimitWeaponKatana",
 		"jp_text": "抜剣",
-		"tr_text": ""
+		"tr_text": "카타나"
 	},
 	{
 		"assign": "LimitWeaponCompoundBow",
 		"jp_text": "強弓",
-		"tr_text": ""
+		"tr_text": "바렛 보우"
 	},
 	{
 		"assign": "LimitWeaponUnarmed",
 		"jp_text": "素手",
-		"tr_text": ""
+		"tr_text": "맨손"
 	},
 	{
 		"assign": "LimitWeaponJetBoots",
 		"jp_text": "魔装脚",
-		"tr_text": ""
+		"tr_text": "제트 부츠"
 	},
 	{
 		"assign": "LimitWeaponDualBlade",
 		"jp_text": "飛翔剣",
-		"tr_text": ""
+		"tr_text": "듀얼 블레이드"
 	},
 	{
 		"assign": "LimitWeaponReserve3",
 		"jp_text": "予備３",
-		"tr_text": ""
+		"tr_text": "예비 3"
 	},
 	{
 		"assign": "LimitWeaponReserve4",
 		"jp_text": "予備４",
-		"tr_text": ""
+		"tr_text": "예비 4"
 	},
 	{
 		"assign": "LimitWeaponReserve5",
 		"jp_text": "予備５",
-		"tr_text": ""
+		"tr_text": "예비 5"
 	},
 	{
 		"assign": "LimitWeaponReserve6",
 		"jp_text": "予備６",
-		"tr_text": ""
+		"tr_text": "예비 6"
 	},
 	{
 		"assign": "MagicAttributeFire",
 		"jp_text": "炎",
-		"tr_text": ""
+		"tr_text": "염"
 	},
 	{
 		"assign": "MagicAttributeIce",
 		"jp_text": "氷",
-		"tr_text": ""
+		"tr_text": "빙"
 	},
 	{
 		"assign": "MagicAttributeThunder",
 		"jp_text": "雷",
-		"tr_text": ""
+		"tr_text": "뇌"
 	},
 	{
 		"assign": "MagicAttributeWind",
 		"jp_text": "風",
-		"tr_text": ""
+		"tr_text": "풍"
 	},
 	{
 		"assign": "MagicAttributeLight",
 		"jp_text": "光",
-		"tr_text": ""
+		"tr_text": "명"
 	},
 	{
 		"assign": "MagicAttributeDark",
 		"jp_text": "闇",
-		"tr_text": ""
+		"tr_text": "암"
 	},
 	{
 		"assign": "NameLimitWeaponGunSlash",
 		"jp_text": "ガンスラッシュ",
-		"tr_text": ""
+		"tr_text": "건 슬래쉬"
 	},
 	{
 		"assign": "NameLimitWeaponSword",
 		"jp_text": "ソード",
-		"tr_text": ""
+		"tr_text": "소드"
 	},
 	{
 		"assign": "NameLimitWeaponPartizan",
 		"jp_text": "パルチザン",
-		"tr_text": ""
+		"tr_text": "파르티잔"
 	},
 	{
 		"assign": "NameLimitWeaponWiredLance",
 		"jp_text": "ワイヤードランス",
-		"tr_text": ""
+		"tr_text": "와이어드 랜스"
 	},
 	{
 		"assign": "NameLimitWeaponAssaultRifle",
 		"jp_text": "アサルトライフル",
-		"tr_text": ""
+		"tr_text": "어썰트 라이플"
 	},
 	{
 		"assign": "NameLimitWeaponLauncher",
 		"jp_text": "ランチャー",
-		"tr_text": ""
+		"tr_text": "런쳐"
 	},
 	{
 		"assign": "NameLimitWeaponRod",
 		"jp_text": "ロッド",
-		"tr_text": ""
+		"tr_text": "로드"
 	},
 	{
 		"assign": "NameLimitWeaponTalis",
 		"jp_text": "タリス",
-		"tr_text": ""
+		"tr_text": "탈리스"
 	},
 	{
 		"assign": "NameLimitWeaponKnuckle",
 		"jp_text": "ナックル",
-		"tr_text": ""
+		"tr_text": "너클"
 	},
 	{
 		"assign": "NameLimitWeaponTwinDagger",
 		"jp_text": "ツインダガー",
-		"tr_text": ""
+		"tr_text": "트윈 대거"
 	},
 	{
 		"assign": "NameLimitWeaponDoubleSaber",
 		"jp_text": "ダブルセイバー",
-		"tr_text": ""
+		"tr_text": "더블 세이버"
 	},
 	{
 		"assign": "NameLimitWeaponWand",
 		"jp_text": "ウォンド",
-		"tr_text": ""
+		"tr_text": "완드"
 	},
 	{
 		"assign": "NameLimitWeaponTwinMachineGun",
 		"jp_text": "ツインマシンガン",
-		"tr_text": ""
+		"tr_text": "트윈 머신건"
 	},
 	{
 		"assign": "NameLimitWeaponKatana",
 		"jp_text": "カタナ",
-		"tr_text": ""
+		"tr_text": "카타나"
 	},
 	{
 		"assign": "NameLimitWeaponCompoundBow",
 		"jp_text": "バレットボウ",
-		"tr_text": ""
+		"tr_text": "바렛 보우"
 	},
 	{
 		"assign": "NameLimitWeaponUnarmed",
 		"jp_text": "素手",
-		"tr_text": ""
+		"tr_text": "맨손"
 	},
 	{
 		"assign": "NameLimitWeaponJetBoots",
 		"jp_text": "ジェットブーツ",
-		"tr_text": ""
+		"tr_text": "제트 부츠"
 	},
 	{
 		"assign": "NameLimitWeaponDualBlade",
 		"jp_text": "デュアルブレード",
-		"tr_text": ""
+		"tr_text": "듀얼 블레이드"
 	},
 	{
 		"assign": "NameLimitWeaponReserve3",
@@ -16822,7 +16822,7 @@
 	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60> 받는 박스 안에는 수령 기간이 있는 아이템이 있습니다.기한이 지나면 받을 수 없으므로 주의하세요.</color>"
 	},
 	{
 		"assign": "acceptbox_title",
@@ -16847,7 +16847,7 @@
 	{
 		"assign": "acceptbox_sort_standard",
 		"jp_text": "入手順",
-		"tr_text": ""
+		"tr_text": "입수 순"
 	},
 	{
 		"assign": "acceptbox_sort_expiration",
