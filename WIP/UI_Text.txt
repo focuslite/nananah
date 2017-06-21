@@ -1742,7 +1742,7 @@
 	{
 		"assign": "equip_dialog_b_13",
 		"jp_text": "現在装備している武器を変更すると\n総チップコストをオーバーするチップがあります。\n\n右側に装備しているチップから解除されますが\nよろしいですか？",
-		"tr_text": "현재 장비중인 무기를 변경하면\n총 칩 코스트를 오버하는 칩이 있습니다.\n\n오른쪽에 장비중인 칩부터 장비 해제가 됩니다.\n\n괜찮습니까?"
+		"tr_text": "현재 장비중인 무기를 변경하면\n총 칩 코스트를 초과하는 칩이 있습니다.\n\n오른쪽에 장비중인 칩부터 장비 해제가 됩니다.\n\n괜찮습니까?"
 	},
 	{
 		"assign": "friend_guide_00",
@@ -2747,7 +2747,7 @@
 	{
 		"assign": "menu_dialog_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "돌아가기"
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "menu_dialog_button_title",
@@ -3422,7 +3422,7 @@
 	{
 		"assign": "myshop_dialog_b_08_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": ""
+		"tr_text": "랍피 메달"
 	},
 	{
 		"assign": "myshop_dialog_b_08_back",
@@ -5727,7 +5727,7 @@
 	{
 		"assign": "relief_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "돌아가기"
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "relief_button_send",
@@ -5902,17 +5902,17 @@
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"tr_text": ""
+		"tr_text": "랍피 메달 {0}장으로\n{1}을(를){2}회 뽑습니다.\n괜찮습니까?\n현재 메달 수 :{3}장\n"
 	},
 	{
 		"assign": "scratch_message_02",
 		"jp_text": "「{0}」が当たりました！",
-		"tr_text": ""
+		"tr_text": "「{0}」이(가) 나왔습니다!"
 	},
 	{
 		"assign": "scratch_message_03",
 		"jp_text": "ラッピーメダル{0}枚を獲得しました！",
-		"tr_text": ""
+		"tr_text": "랍피 메달 {0}장을 얻었습니다!"
 	},
 	{
 		"assign": "scratch_message_04",
@@ -5942,7 +5942,7 @@
 	{
 		"assign": "scratch_bonus_menu_info",
 		"jp_text": "あと<color=#ffff00>{0}回</color>でプレゼント！",
-		"tr_text": ""
+		"tr_text": "앞으로 <color=#ffff00>{0}회</color>로 선물"
 	},
 	{
 		"assign": "scratch_bonus_menu_multi_bonus",
@@ -6037,22 +6037,22 @@
 	{
 		"assign": "quest_dialog_t_01",
 		"jp_text": "復活確認",
-		"tr_text": ""
+		"tr_text": "부활 확인"
 	},
 	{
 		"assign": "quest_dialog_t_02",
 		"jp_text": "クエストリタイア",
-		"tr_text": ""
+		"tr_text": "퀘스트 리타이어"
 	},
 	{
 		"assign": "quest_dialog_b_02",
 		"jp_text": "ここまでにクエスト中で入手した\nアイテム、経験値、メセタが失われますが\n本当にリタイアしますか？",
-		"tr_text": ""
+		"tr_text": "현재까지 퀘스트 중 얻은\n아이템, 경험치, 메세타를 잃습니다만\n정말로 리타이어 하시겠습니까?"
 	},
 	{
 		"assign": "quest_dialog_t_03",
 		"jp_text": "復活確認",
-		"tr_text": ""
+		"tr_text": "부활 확인"
 	},
 	{
 		"assign": "quest_dialog_b_03",
@@ -6252,7 +6252,7 @@
 	{
 		"assign": "fieldoption_category_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "fieldoption_soundsetting_windowtitle",
@@ -6267,7 +6267,7 @@
 	{
 		"assign": "fieldoption_soundsetting_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "fieldoption_autosetting_windowtitle",
@@ -6307,7 +6307,7 @@
 	{
 		"assign": "fieldoption_autosetting_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "questfield_automove_start",
@@ -6377,17 +6377,17 @@
 	{
 		"assign": "questresult_result_button",
 		"jp_text": "タッチで進む",
-		"tr_text": ""
+		"tr_text": "터치로 넘어가기"
 	},
 	{
 		"assign": "questresult_result_title",
 		"jp_text": "クエスト報酬",
-		"tr_text": ""
+		"tr_text": "퀘스트 보수"
 	},
 	{
 		"assign": "questresult_result_getexp",
 		"jp_text": "獲得経験値",
-		"tr_text": ""
+		"tr_text": "획득 경험치"
 	},
 	{
 		"assign": "questresult_result_exp",
@@ -6397,22 +6397,22 @@
 	{
 		"assign": "questresult_result_getmeseta",
 		"jp_text": "獲得メセタ",
-		"tr_text": ""
+		"tr_text": "획득 메세타"
 	},
 	{
 		"assign": "questresult_result_meseta",
 		"jp_text": "メセタ",
-		"tr_text": ""
+		"tr_text": "메세타"
 	},
 	{
 		"assign": "questresult_result_nextlevel",
 		"jp_text": "次のレベルまで",
-		"tr_text": ""
+		"tr_text": "다음 레벨까지"
 	},
 	{
 		"assign": "questresult_result_record",
 		"jp_text": "クエスト内スコア記録",
-		"tr_text": ""
+		"tr_text": "퀘스트 내 스코어 기록"
 	},
 	{
 		"assign": "questresult_result_level",
@@ -6422,17 +6422,17 @@
 	{
 		"assign": "questresult_result_point",
 		"jp_text": "目標ランク",
-		"tr_text": ""
+		"tr_text": "목표 랭크"
 	},
 	{
 		"assign": "questresult_result_gain",
 		"jp_text": "獲得<color=#68a0a7>/</color>",
-		"tr_text": ""
+		"tr_text": "획득<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "questresult_result_total",
 		"jp_text": "合計<color=#68a0a7>/</color>",
-		"tr_text": ""
+		"tr_text": "합계<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "questresult_result_unit_point",
@@ -6442,7 +6442,7 @@
 	{
 		"assign": "questresult_result_limit_s_a",
 		"jp_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク",
-		"tr_text": ""
+		"tr_text": "앞으로 <%hh>시간 <%mm>분 안에 토벌 시 <%rank>랭크"
 	},
 	{
 		"assign": "questresult_result_limit_b",
@@ -8397,7 +8397,7 @@
 	{
 		"assign": "dict_present_info_header",
 		"jp_text": "プレゼント",
-		"tr_text": ""
+		"tr_text": "선물"
 	},
 	{
 		"assign": "dict_present_num_header",
@@ -8412,12 +8412,12 @@
 	{
 		"assign": "dict_rappy_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": ""
+		"tr_text": "랍피 메달"
 	},
 	{
 		"assign": "dict_meseta",
 		"jp_text": "メセタ",
-		"tr_text": ""
+		"tr_text": "메세타"
 	},
 	{
 		"assign": "dict_present_num_ko",
@@ -8987,12 +8987,12 @@
 	{
 		"assign": "menu_charainfo_premium_unused",
 		"jp_text": "未使用",
-		"tr_text": ""
+		"tr_text": "미사용"
 	},
 	{
 		"assign": "menu_charainfo_premium_expired",
 		"jp_text": "期限切れ",
-		"tr_text": ""
+		"tr_text": "기간 만료"
 	},
 	{
 		"assign": "menu_charainfo_drive",
@@ -14857,7 +14857,7 @@
 	{
 		"assign": "arks_exp_reward_button_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "arks_exp_reward_button_next",
@@ -14952,7 +14952,7 @@
 	{
 		"assign": "fld_productionset_btn_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "btl_menu_title",
@@ -14962,32 +14962,32 @@
 	{
 		"assign": "btl_menu_btn_soundset",
 		"jp_text": "サウンド設定",
-		"tr_text": ""
+		"tr_text": "사운드 설정"
 	},
 	{
 		"assign": "btl_menu_btn_productionset",
 		"jp_text": "演出設定",
-		"tr_text": ""
+		"tr_text": "연출 설정"
 	},
 	{
 		"assign": "btl_menu_btn_questretire",
 		"jp_text": "クエストリタイア",
-		"tr_text": ""
+		"tr_text": "퀘스트 리타이어"
 	},
 	{
 		"assign": "btl_menu_btn_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "닫기"
 	},
 	{
 		"assign": "btl_wep_title",
 		"jp_text": "演出設定",
-		"tr_text": ""
+		"tr_text": "연출 설정"
 	},
 	{
 		"assign": "btl_wep_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": ""
+		"tr_text": "칩 발동 연출"
 	},
 	{
 		"assign": "btl_wep_btn_ON",
@@ -15002,12 +15002,12 @@
 	{
 		"assign": "btl_wep_btn_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "돌아가기"
 	},
 	{
 		"assign": "btl_soundset",
 		"jp_text": "オプション(サウンド設定)",
-		"tr_text": ""
+		"tr_text": "옵션 (사운드 설정)"
 	},
 	{
 		"assign": "btl_voice",
@@ -15027,12 +15027,12 @@
 	{
 		"assign": "btl_soundset_default",
 		"jp_text": "初期設定値に戻す",
-		"tr_text": ""
+		"tr_text": "초기 설정으로"
 	},
 	{
 		"assign": "btl_soundset_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "돌아가기"
 	},
 	{
 		"assign": "pet_eggdetail_title_01",
@@ -15077,32 +15077,32 @@
 	{
 		"assign": "attribute_fire",
 		"jp_text": "炎",
-		"tr_text": ""
+		"tr_text": "염"
 	},
 	{
 		"assign": "attribute_ice",
 		"jp_text": "氷",
-		"tr_text": ""
+		"tr_text": "빙"
 	},
 	{
 		"assign": "attribute_thunder",
 		"jp_text": "雷",
-		"tr_text": ""
+		"tr_text": "뇌"
 	},
 	{
 		"assign": "attribute_wind",
 		"jp_text": "風",
-		"tr_text": ""
+		"tr_text": "풍"
 	},
 	{
 		"assign": "attribute_light",
 		"jp_text": "光",
-		"tr_text": ""
+		"tr_text": "명"
 	},
 	{
 		"assign": "attribute_dark",
 		"jp_text": "闇",
-		"tr_text": ""
+		"tr_text": "암"
 	},
 	{
 		"assign": "ItemDetail_Egg_ParamFormat",
@@ -16937,7 +16937,7 @@
 	{
 		"assign": "acceptbox_recieve_end",
 		"jp_text": "受け取り期限",
-		"tr_text": "수령 기한 기한"
+		"tr_text": "수령 기간"
 	},
 	{
 		"assign": "acceptbox_recieve_expiration",
