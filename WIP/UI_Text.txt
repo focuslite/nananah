@@ -7427,82 +7427,82 @@
 	{
 		"assign": "weapon_chip_palette",
 		"jp_text": "武器/チップパレット",
-		"tr_text": ""
+		"tr_text": "무기/칩 파레트"
 	},
 	{
 		"assign": "weapon",
 		"jp_text": "武器",
-		"tr_text": ""
+		"tr_text": "무기"
 	},
 	{
 		"assign": "chip",
 		"jp_text": "チップ",
-		"tr_text": ""
+		"tr_text": "칩"
 	},
 	{
 		"assign": "player_attack_status",
 		"jp_text": "プレイヤー攻撃ステータス",
-		"tr_text": ""
+		"tr_text": "플레이어 공격 상태"
 	},
 	{
 		"assign": "total_chip_cost",
 		"jp_text": "総チップコスト",
-		"tr_text": ""
+		"tr_text": "총 칩 코스트"
 	},
 	{
 		"assign": "strike_power",
 		"jp_text": "打撃力",
-		"tr_text": ""
+		"tr_text": "타격력"
 	},
 	{
 		"assign": "firearm_power",
 		"jp_text": "射撃力",
-		"tr_text": ""
+		"tr_text": "사격력"
 	},
 	{
 		"assign": "technic_power",
 		"jp_text": "法撃力",
-		"tr_text": ""
+		"tr_text": "법격력"
 	},
 	{
 		"assign": "attribute",
 		"jp_text": "属性",
-		"tr_text": ""
+		"tr_text": "속성"
 	},
 	{
 		"assign": "chip_name",
 		"jp_text": "名称 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "명칭 <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "ability_name",
 		"jp_text": "アビリティ名 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "어빌리티 이름 <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "effect",
 		"jp_text": "効果 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "효과 <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "chip_select",
 		"jp_text": "チップ選択",
-		"tr_text": ""
+		"tr_text": "칩 선택"
 	},
 	{
 		"assign": "possess_num",
 		"jp_text": "所持数",
-		"tr_text": ""
+		"tr_text": "소지 수"
 	},
 	{
 		"assign": "storage_num",
 		"jp_text": "収納数",
-		"tr_text": ""
+		"tr_text": "수납 수"
 	},
 	{
 		"assign": "rearrange",
 		"jp_text": "並び替え",
-		"tr_text": ""
+		"tr_text": "정렬"
 	},
 	{
 		"assign": "equip_hp",
@@ -7512,57 +7512,57 @@
 	{
 		"assign": "equip_defaultcp",
 		"jp_text": "初期CP",
-		"tr_text": ""
+		"tr_text": "초기 CP"
 	},
 	{
 		"assign": "weapon_select",
 		"jp_text": "武器選択",
-		"tr_text": ""
+		"tr_text": "무기 선택"
 	},
 	{
 		"assign": "costume_select",
 		"jp_text": "コスチューム選択",
-		"tr_text": ""
+		"tr_text": "코스튬 선택"
 	},
 	{
 		"assign": "parts_body_select",
 		"jp_text": "パーツ(ボディ)選択",
-		"tr_text": ""
+		"tr_text": "파츠 (바디) 선택"
 	},
 	{
 		"assign": "parts_arm_select",
 		"jp_text": "パーツ(アーム)選択",
-		"tr_text": ""
+		"tr_text": "파츠 (암) 선택"
 	},
 	{
 		"assign": "parts_leg_select",
 		"jp_text": "パーツ(レッグ)選択",
-		"tr_text": ""
+		"tr_text": "파츠 (레그) 선택"
 	},
 	{
 		"assign": "unit_rear_select",
 		"jp_text": "ユニット(リア)選択",
-		"tr_text": ""
+		"tr_text": "유닛 (리어) 선택"
 	},
 	{
 		"assign": "unit_arm_select",
 		"jp_text": "ユニット(アーム)選択",
-		"tr_text": ""
+		"tr_text": "유닛 (암) 선택"
 	},
 	{
 		"assign": "unit_leg_select",
 		"jp_text": "ユニット(レッグ)選択",
-		"tr_text": ""
+		"tr_text": "유닛(레그) 선택"
 	},
 	{
 		"assign": "chipequip_cost",
 		"jp_text": "コスト",
-		"tr_text": ""
+		"tr_text": "코스트"
 	},
 	{
 		"assign": "chipequip_chip_lv",
 		"jp_text": "チップLv.",
-		"tr_text": ""
+		"tr_text": "칩 Lv."
 	},
 	{
 		"assign": "chipequip_hp",
@@ -7577,182 +7577,182 @@
 	{
 		"assign": "chipequip_classbonus",
 		"jp_text": "クラスボーナス",
-		"tr_text": ""
+		"tr_text": "클래스 보너스"
 	},
 	{
 		"assign": "chipequip_ability",
 		"jp_text": "アビリティ名 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "어빌리티 이름 <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "chipequip_effect",
 		"jp_text": "効果説明     <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "효과 설명     <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "chipequip_ability_lv",
 		"jp_text": "アビリティLv.  {0}",
-		"tr_text": ""
+		"tr_text": "어빌리티 Lv. {0}"
 	},
 	{
 		"assign": "chipequip_consume_cp",
 		"jp_text": "消費CP : {0}",
-		"tr_text": ""
+		"tr_text": "소비 CP : {0}"
 	},
 	{
 		"assign": "chipequip_rate",
 		"jp_text": "発動確率 : {0}",
-		"tr_text": ""
+		"tr_text": "발동 확률 : {0}"
 	},
 	{
 		"assign": "chipequip_max_lv",
 		"jp_text": "最大チップLv.",
-		"tr_text": ""
+		"tr_text": "최대 칩 Lv. "
 	},
 	{
 		"assign": "chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": ""
+		"tr_text": "다음 레벨까지 "
 	},
 	{
 		"assign": "chipequip_limit",
 		"jp_text": "限定",
-		"tr_text": ""
+		"tr_text": "한정"
 	},
 	{
 		"assign": "chip_type_active",
 		"jp_text": "アクティブ",
-		"tr_text": ""
+		"tr_text": "액티브"
 	},
 	{
 		"assign": "chip_type_support",
 		"jp_text": "サポート",
-		"tr_text": ""
+		"tr_text": "서포트"
 	},
 	{
 		"assign": "chip_type_name_1",
 		"jp_text": "キャラクター",
-		"tr_text": ""
+		"tr_text": "캐릭터"
 	},
 	{
 		"assign": "chip_type_name_2",
 		"jp_text": "ダーカー",
-		"tr_text": ""
+		"tr_text": "다커"
 	},
 	{
 		"assign": "chip_type_name_3",
 		"jp_text": "原生種",
-		"tr_text": ""
+		"tr_text": "원생종"
 	},
 	{
 		"assign": "chip_type_name_4",
 		"jp_text": "龍族",
-		"tr_text": ""
+		"tr_text": "용족"
 	},
 	{
 		"assign": "chip_type_name_5",
 		"jp_text": "機甲種",
-		"tr_text": ""
+		"tr_text": "기갑종"
 	},
 	{
 		"assign": "chip_type_name_6",
 		"jp_text": "海王種",
-		"tr_text": ""
+		"tr_text": "해왕종"
 	},
 	{
 		"assign": "chip_type_name_7",
 		"jp_text": "エクストラ",
-		"tr_text": ""
+		"tr_text": "엑스트라"
 	},
 	{
 		"assign": "chip_type_name_8",
 		"jp_text": "アイテム",
-		"tr_text": ""
+		"tr_text": "아이템"
 	},
 	{
 		"assign": "chip_type_name_9",
 		"jp_text": "超時空エネミー",
-		"tr_text": ""
+		"tr_text": "초시공 에너미"
 	},
 	{
 		"assign": "chip_type_name_10",
 		"jp_text": "アビリティLvアップ用素材",
-		"tr_text": ""
+		"tr_text": "어빌리티 Lv 업용 소재"
 	},
 	{
 		"assign": "chip_type_name_11",
 		"jp_text": "解放用素材",
-		"tr_text": ""
+		"tr_text": "해방용 소재"
 	},
 	{
 		"assign": "chip_type_name_12",
 		"jp_text": "ヒストリー",
-		"tr_text": ""
+		"tr_text": "히스토리"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
-		"tr_text": ""
+		"tr_text": "웨포노이드"
 	},
 	{
 		"assign": "chip_rate_very_low",
 		"jp_text": "極小",
-		"tr_text": ""
+		"tr_text": "극소"
 	},
 	{
 		"assign": "chip_rate_low",
 		"jp_text": "小",
-		"tr_text": ""
+		"tr_text": "소"
 	},
 	{
 		"assign": "chip_rate_low_2",
 		"jp_text": "小＋",
-		"tr_text": ""
+		"tr_text": "소+"
 	},
 	{
 		"assign": "chip_rate_low_3",
 		"jp_text": "小＋＋",
-		"tr_text": ""
+		"tr_text": "소++"
 	},
 	{
 		"assign": "chip_rate_mid",
 		"jp_text": "中",
-		"tr_text": ""
+		"tr_text": "중+"
 	},
 	{
 		"assign": "chip_rate_mid_2",
 		"jp_text": "中＋",
-		"tr_text": ""
+		"tr_text": "중+"
 	},
 	{
 		"assign": "chip_rate_mid_3",
 		"jp_text": "中＋＋",
-		"tr_text": ""
+		"tr_text": "중++"
 	},
 	{
 		"assign": "chip_rate_high",
 		"jp_text": "大",
-		"tr_text": ""
+		"tr_text": "대"
 	},
 	{
 		"assign": "chip_rate_high_2",
 		"jp_text": "大＋",
-		"tr_text": ""
+		"tr_text": "대+"
 	},
 	{
 		"assign": "chip_rate_high_3",
 		"jp_text": "大＋＋",
-		"tr_text": ""
+		"tr_text": "대++"
 	},
 	{
 		"assign": "chip_rate_sure",
 		"jp_text": "必",
-		"tr_text": ""
+		"tr_text": "반드시"
 	},
 	{
 		"assign": "chipequip_chip_detail",
 		"jp_text": "チップ詳細",
-		"tr_text": ""
+		"tr_text": "칩 상세"
 	},
 	{
 		"assign": "equip_return_lobby",
@@ -7762,7 +7762,7 @@
 	{
 		"assign": "equip_header",
 		"jp_text": "武器/チップ装備",
-		"tr_text": ""
+		"tr_text": "무기/칩 장비"
 	},
 	{
 		"assign": "equip_return",
@@ -7772,127 +7772,127 @@
 	{
 		"assign": "chip_window_select",
 		"jp_text": "チップ選択",
-		"tr_text": ""
+		"tr_text": "칩 서택"
 	},
 	{
 		"assign": "chip_window_reinforce",
 		"jp_text": "強化チップ選択",
-		"tr_text": ""
+		"tr_text": "강화 칩 선택"
 	},
 	{
 		"assign": "chip_window_material",
 		"jp_text": "素材チップ選択",
-		"tr_text": ""
+		"tr_text": "소재 칩 선택"
 	},
 	{
 		"assign": "chip_window_release",
 		"jp_text": "解放チップ選択",
-		"tr_text": ""
+		"tr_text": "해방 칩 선택"
 	},
 	{
 		"assign": "window_sort_favorite",
 		"jp_text": "お気に入り",
-		"tr_text": ""
+		"tr_text": "즐겨찾기"
 	},
 	{
 		"assign": "window_sort_gainorder",
 		"jp_text": "入手順",
-		"tr_text": ""
+		"tr_text": "입수순"
 	},
 	{
 		"assign": "window_sort_mainattack",
 		"jp_text": "攻撃力",
-		"tr_text": ""
+		"tr_text": "공격력"
 	},
 	{
 		"assign": "window_sort_attr_value",
 		"jp_text": "属性値",
-		"tr_text": ""
+		"tr_text": "속성 값"
 	},
 	{
 		"assign": "window_sort_category",
 		"jp_text": "発動タイプ",
-		"tr_text": ""
+		"tr_text": "발동 타입"
 	},
 	{
 		"assign": "window_sort_standard",
 		"jp_text": "標準",
-		"tr_text": ""
+		"tr_text": "표준"
 	},
 	{
 		"assign": "window_sort_rarity",
 		"jp_text": "レアリティ",
-		"tr_text": ""
+		"tr_text": "레어리티"
 	},
 	{
 		"assign": "window_sort_chipId",
 		"jp_text": "カテゴリ",
-		"tr_text": ""
+		"tr_text": "카테고리"
 	},
 	{
 		"assign": "window_sort_level",
 		"jp_text": "レベル",
-		"tr_text": ""
+		"tr_text": "레벨"
 	},
 	{
 		"assign": "window_sort_cost",
 		"jp_text": "コスト",
-		"tr_text": ""
+		"tr_text": "코스트"
 	},
 	{
 		"assign": "window_sort_price",
 		"jp_text": "価格",
-		"tr_text": ""
+		"tr_text": "가격"
 	},
 	{
 		"assign": "ui_meseta_cost",
 		"jp_text": "必要メセタ",
-		"tr_text": ""
+		"tr_text": "필요 메세타"
 	},
 	{
 		"assign": "window_sort_equip",
 		"jp_text": "装備中",
-		"tr_text": ""
+		"tr_text": "장비 중"
 	},
 	{
 		"assign": "ui_chip_ability_up_rate",
 		"jp_text": "アビリティUP確率",
-		"tr_text": ""
+		"tr_text": "어빌리티 UP 확률"
 	},
 	{
 		"assign": "ui_chip_reinforce",
 		"jp_text": "強化チップ",
-		"tr_text": ""
+		"tr_text": "강화 칩"
 	},
 	{
 		"assign": "ui_chip_material",
 		"jp_text": "素材チップ",
-		"tr_text": ""
+		"tr_text": "소재 칩"
 	},
 	{
 		"assign": "ui_chip_release",
 		"jp_text": "解放チップ",
-		"tr_text": ""
+		"tr_text": "해방 칩"
 	},
 	{
 		"assign": "ui_chip_recommend",
 		"jp_text": "おすすめ選択",
-		"tr_text": ""
+		"tr_text": "추천 선택"
 	},
 	{
 		"assign": "ui_chip_recommend_ability",
 		"jp_text": "アビリティ強化",
-		"tr_text": ""
+		"tr_text": "어빌리티 강화"
 	},
 	{
 		"assign": "ui_chip_reinforce_info",
 		"jp_text": "チップ強化内容",
-		"tr_text": ""
+		"tr_text": "칩 강화 내용"
 	},
 	{
 		"assign": "ui_chip_release_info",
 		"jp_text": "チップ解放内容",
-		"tr_text": ""
+		"tr_text": "칩 해방 내용"
 	},
 	{
 		"assign": "ui_chip_button_reinforce",
@@ -7912,27 +7912,27 @@
 	{
 		"assign": "favorite_register",
 		"jp_text": "お気に入り登録",
-		"tr_text": ""
+		"tr_text": "즐겨찾기 등록"
 	},
 	{
 		"assign": "favorite_release",
 		"jp_text": "お気に入り解除",
-		"tr_text": ""
+		"tr_text": "즐겨찾기 해제"
 	},
 	{
 		"assign": "view_item_status",
 		"jp_text": "パラメータ表示",
-		"tr_text": ""
+		"tr_text": "파라메터 표시"
 	},
 	{
 		"assign": "view_weapon_name",
 		"jp_text": "武器名表示",
-		"tr_text": ""
+		"tr_text": "무기 이름 표시"
 	},
 	{
 		"assign": "view_unit_name",
 		"jp_text": "ユニット名表示",
-		"tr_text": ""
+		"tr_text": "유닛 이름 표시"
 	},
 	{
 		"assign": "illustrator_label",
@@ -7947,97 +7947,97 @@
 	{
 		"assign": "release_gauge",
 		"jp_text": "外伝解放ゲージ",
-		"tr_text": ""
+		"tr_text": "외전 해방 게이지"
 	},
 	{
 		"assign": "present_gauge",
 		"jp_text": "プレゼントゲージ",
-		"tr_text": ""
+		"tr_text": "선물 게이지"
 	},
 	{
 		"assign": "limit_effect_all_quest",
 		"jp_text": "全クエスト",
-		"tr_text": ""
+		"tr_text": "모든 퀘스트"
 	},
 	{
 		"assign": "guard_equip",
 		"jp_text": "防具装備",
-		"tr_text": ""
+		"tr_text": "방어구 장비"
 	},
 	{
 		"assign": "player_guard_status",
 		"jp_text": "プレイヤー防御ステータス",
-		"tr_text": ""
+		"tr_text": "플레이어 방어 상태"
 	},
 	{
 		"assign": "guard_palette",
 		"jp_text": "防具パレット",
-		"tr_text": ""
+		"tr_text": "도구 파레트"
 	},
 	{
 		"assign": "parts_palette_title",
 		"jp_text": "パーツ(ボディ／アーム／レッグ)",
-		"tr_text": ""
+		"tr_text": "파츠 (바디/암/레그)"
 	},
 	{
 		"assign": "unit_palette_title",
 		"jp_text": "ユニット(リア／アーム／レッグ)",
-		"tr_text": ""
+		"tr_text": "유닛 (리어/암/레그)"
 	},
 	{
 		"assign": "costume_palette_title",
 		"jp_text": "コスチューム",
-		"tr_text": ""
+		"tr_text": "코스튬"
 	},
 	{
 		"assign": "outer_palette_title",
 		"jp_text": "アウターウェア",
-		"tr_text": ""
+		"tr_text": "아웃 웨어"
 	},
 	{
 		"assign": "equip_palette_rear",
 		"jp_text": "リア",
-		"tr_text": ""
+		"tr_text": "리어"
 	},
 	{
 		"assign": "equip_palette_arm",
 		"jp_text": "アーム",
-		"tr_text": ""
+		"tr_text": "암"
 	},
 	{
 		"assign": "equip_palette_leg",
 		"jp_text": "レッグ",
-		"tr_text": ""
+		"tr_text": "레그"
 	},
 	{
 		"assign": "equip_palette_sub",
 		"jp_text": "サブ",
-		"tr_text": ""
+		"tr_text": "서브"
 	},
 	{
 		"assign": "button_decide",
 		"jp_text": "決定",
-		"tr_text": ""
+		"tr_text": "결정"
 	},
 	{
 		"assign": "item_sale",
 		"jp_text": "アイテム売却／交換",
-		"tr_text": ""
+		"tr_text": "아이템 판매 / 교환"
 	},
 	{
 		"assign": "item_sale_button",
 		"jp_text": "アイテム売却",
-		"tr_text": ""
+		"tr_text": "아이템 판매"
 	},
 	{
 		"assign": "chip_sale_header",
 		"jp_text": "チップ売却",
-		"tr_text": ""
+		"tr_text": "칩 판매"
 	},
 	{
 		"assign": "item_sale_header",
 		"jp_text": "アイテム売却",
-		"tr_text": ""
+		"tr_text": "아이템 판매"
 	},
 	{
 		"assign": "barmoney_ac",
@@ -8047,37 +8047,37 @@
 	{
 		"assign": "barmoney_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": ""
+		"tr_text": "랍피 메달"
 	},
 	{
 		"assign": "barmoney_meseta",
 		"jp_text": "メセタ",
-		"tr_text": ""
+		"tr_text": "메세타"
 	},
 	{
 		"assign": "chip_window_pack",
 		"jp_text": "チップパック",
-		"tr_text": ""
+		"tr_text": "칩 팩"
 	},
 	{
 		"assign": "item_sale_sum",
 		"jp_text": "売上合計",
-		"tr_text": ""
+		"tr_text": "매출 합계"
 	},
 	{
 		"assign": "item_sale_select_num",
 		"jp_text": "選択数",
-		"tr_text": ""
+		"tr_text": "선택 수"
 	},
 	{
 		"assign": "chip_sale",
 		"jp_text": "チップ売却",
-		"tr_text": ""
+		"tr_text": "칩 판매"
 	},
 	{
 		"assign": "item_sale_menu",
 		"jp_text": "売却／交換メニュー",
-		"tr_text": ""
+		"tr_text": "매각 / 교환 메뉴"
 	},
 	{
 		"assign": "item_sale_recycle",
@@ -8087,27 +8087,27 @@
 	{
 		"assign": "item_pack_window",
 		"jp_text": "アイテムパック",
-		"tr_text": ""
+		"tr_text": "아이템 팩"
 	},
 	{
 		"assign": "prohibit_sale",
 		"jp_text": "売却禁止",
-		"tr_text": ""
+		"tr_text": "매각 금지"
 	},
 	{
 		"assign": "pso2_item_dummy",
 		"jp_text": "PSO2アイテム",
-		"tr_text": ""
+		"tr_text": "PSO2 아이템"
 	},
 	{
 		"assign": "questkey_timelimit",
 		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
-		"tr_text": ""
+		"tr_text": "유효기간 / yyyy년 MM월 dd일 HH시 mm분"
 	},
 	{
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
-		"tr_text": ""
+		"tr_text": "유효기간 / <color=\"red\">yyyy년 MM월 dd일 HH시 mm분</color>"
 	},
 	{
 		"assign": "stargem_label_0",
