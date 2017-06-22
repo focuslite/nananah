@@ -4,13 +4,13 @@
 		"jp_text": "ツイスターフォール／Ｃ",
 		"tr_text": "",
 		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
-		"tr_explain": "a disc for reconfiguring the PA \ncreated by PA Customization."
+		"tr_explain": "포톤 아츠 개량을 위한 디스크. \n포톤 아츠 커스터마제이션으로 제작."
 	},
 	{
 		"assign": "9519",
 		"jp_text": "サクリファイスバイト／Ｃ",
 		"tr_text": "",
 		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
-		"tr_explain": "a disc for reconfiguring the PA \ncreated by PA Customization."
+		"tr_explain": "포톤 아츠 개량을 위한 디스크. \n포톤 아츠 커스터마제이션으로 제작."
 	}
 ]
