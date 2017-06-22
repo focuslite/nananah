@@ -22,7 +22,7 @@
 	{
 		"assign": "acshop_npc_b_00",
 		"jp_text": "<color=black>こちらで\n冒険の準備を整えましょう！</color>",
-		"tr_text": "<color=black>여기서\n冒모험의 준비를 하죠!</color>"
+		"tr_text": "<color=black>여기서\n모험의 준비를 하죠!</color>"
 	},
 	{
 		"assign": "acshop_npc_t_01",
@@ -172,7 +172,7 @@
 	{
 		"assign": "acshop_dialog_b_02",
 		"jp_text": "チップパックが最大まで拡張されているので\nこれ以上拡張できません。",
-		"tr_text": "칩팩이 최대로 확장되어 있기 때문에,\n더 이상 확장할 수 없습니다."
+		"tr_text": "칩팩이 최대로 확장되어 있으므로\n더이상 확장할 수 없습니다."
 	},
 	{
 		"assign": "acshop_dialog_t_03",
@@ -212,7 +212,7 @@
 	{
 		"assign": "acshop_dialog_b_06",
 		"jp_text": "行動力が最大値のため\n回復することができません。",
-		"tr_text": "행동력이 가득차\n회복할 수 없습니다."
+		"tr_text": "행동력이 가득 차\n회복할 수 없습니다."
 	},
 	{
 		"assign": "acshop_dialog_t_07",
@@ -252,7 +252,7 @@
 	{
 		"assign": "acshop_dialog_b_10",
 		"jp_text": "これ以上、有効期限を追加することはできません。\n\nプレミアム有効期限：<%expiration_date>\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "더 이상, 유효기간을 추가할 수 없습니다.\n\n프리미엄 유효기간 : <%expiration_date>\n※프리미엄 유효기간은 최대 <%max_days>일 까지 추가할 수 있습니다."
+		"tr_text": "더이상, 유효기간을 추가할 수 없습니다.\n\n프리미엄 유효기간 : <%expiration_date>\n※프리미엄 유효기간은 최대 <%max_days>일 까지 추가할 수 있습니다."
 	},
 	{
 		"assign": "acshop_dialog_t_11",
@@ -1782,7 +1782,7 @@
 	{
 		"assign": "friend_dialog_b_02",
 		"jp_text": "フレンド人数が上限に達しています。\nこれ以上、フレンド登録は行えません。",
-		"tr_text": "프랜드가 가득 찼습니다.\n더 이상, 프랜드를 등록할 수 없습니다."
+		"tr_text": "프랜드가 가득 찼습니다.\n더이상, 프랜드를 등록할 수 없습니다."
 	},
 	{
 		"assign": "friend_dialog_t_03",
@@ -3282,132 +3282,132 @@
 	{
 		"assign": "myshop_guide_01",
 		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索します。検索条件を入力し、いずれかの検索ボタンを押してください。</color>",
-		"tr_text": "여기서 부터 번역해야됨"
+		"tr_text": "<color=#f0df60>다른 플레이어가 출품 한 아이템을 검색합니다. 검색 조건을 입력하고 검색 버튼을 누르세요.</color>"
 	},
 	{
 		"assign": "myshop_guide_02",
 		"jp_text": "<color=#f0df60>商品を選択してください。「並び替え」ボタンで並び順を変更できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>상품을 선택하세요. 「정렬」버튼으로 정렬 순서를 변경할 수 있습니다.</color>"
 	},
 	{
 		"assign": "myshop_guide_03",
 		"jp_text": "<color=#f0df60>内容を確認して購入を決定する場合は「購入する」を選択してください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>내용을 확인하고 구입을 결정한 경우엔 「구입 하기」를 선택하세요.</color>"
 	},
 	{
 		"assign": "myshop_guide_04",
 		"jp_text": "<color=#f0df60>現在の売り上げを表示します。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>현재 매출을 표시합니다.</color>"
 	},
 	{
 		"assign": "myshop_guide_05",
 		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60> 다른 플레이어가 출품 한 아이템을 검색할 수 있습니다.</color>"
 	},
 	{
 		"assign": "myshop_guide_06",
 		"jp_text": "<color=#f0df60>アイテムパックからアイテムを選択し、出品できます。出品確認ウィンドウ内の「相場」ボタンを押すと、他のプレイヤーが出品した金額が確認できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>아이템 팩에서 아이템을 선택해, 출품할 수 있습니다. 출품 확인 창 내의 ’시세」버튼을 누르면 다른 플레이어가 출품한 금액을 확인할 수 있습니다.</color>"
 	},
 	{
 		"assign": "myshop_guide_07",
 		"jp_text": "<color=#f0df60>検索を行った履歴が確認できます。履歴を選択すると、条件が詳細検索ウィンドウに自動入力されます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>검색을 한 이력을 확인할 수 있습니다 .이력을 선택하면 조건이 상세 검색 창에 자동 입력됩니다.</color>"
 	},
 	{
 		"assign": "myshop_guide_08",
 		"jp_text": "<color=#f0df60>出品中アイテムをアイテムパックの中に取り下げられます。通信状況により、出品直後のアイテムは表示されるまで時間を要する場合があります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>출품 한 아이템을 아이템 팩으로 돌려 보냅니다. 통신 상황으로 출품 직후의 아이템은 표시될 때까지 시간을 요하는 경우가 있습니다.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_00",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_00",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれています。\n\n購入するには以下のアイテムが必要となります。\n消費して購入します。\n\nよろしいですか？\n\n<%NEEDITEM>　<%NEED>（所持：<%HAVE>）",
-		"tr_text": ""
+		"tr_text": "구입하는 아이템의 일부에\n★10이상의 아이템이 포함되어 있습니다.\n\n구매하려면 다음의 아이템이 필요합니다.\n사용하여 구입합니다.\n\n괜찮습니까?\n\n<%NEEDITEM><%NEED>(소지 : <%HAVE>)"
 	},
 	{
 		"assign": "myshop_dialog_t_01",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_01",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれていますが、\n以下のアイテムが不足しているため\n購入することができません。\n\n<%NEEDITEM>　<color=red><%NEED>（所持：<%HAVE>）</color>",
-		"tr_text": ""
+		"tr_text": "구입하는 아이템의 일부에\n★10이상의 아이템이 포함되어 있으나,\n이하의 아이템이 부족하기 때문에\n구매할 수 없습니다.\n\n<%NEEDITEM><color=red><%NEED>(소지 : <%HAVE>)</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_02",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_02",
 		"jp_text": "出品されているアイテムを購入しました。",
-		"tr_text": ""
+		"tr_text": "출품 되어 있는 아이템을 구매했습니다."
 	},
 	{
 		"assign": "myshop_dialog_t_03",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_03",
 		"jp_text": "アイテムパックに空き容量不足、\nまたは所持数の限界を超えているため、\n購入できません。",
-		"tr_text": ""
+		"tr_text": "아이템 팩의 공간 부족,\n또는 소지 수의 한계가 넘어\n구매할 수 없습니다."
 	},
 	{
 		"assign": "myshop_dialog_t_04",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_04",
 		"jp_text": "所持金が不足しています。",
-		"tr_text": ""
+		"tr_text": "소지금이 부족합니다."
 	},
 	{
 		"assign": "myshop_dialog_t_05",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_05",
 		"jp_text": "選択したアイテムは、売り切れたか\n出品者によって取り下げられたため、\n商品リストから無くなりました。",
-		"tr_text": ""
+		"tr_text": "선택한 아이템은 매진됐거나\n판매자의 취하로 인해\n상품 목록에서 사라졌습니다.."
 	},
 	{
 		"assign": "myshop_dialog_t_06",
 		"jp_text": "商品検索",
-		"tr_text": ""
+		"tr_text": "상품 검색"
 	},
 	{
 		"assign": "myshop_dialog_b_06",
 		"jp_text": "検索に必要な条件を\n最低1つ以上入力してください。",
-		"tr_text": ""
+		"tr_text": "검색 조건을\n최소 1개 이상 입력하세요."
 	},
 	{
 		"assign": "myshop_dialog_t_07",
 		"jp_text": "商品検索",
-		"tr_text": ""
+		"tr_text": "상품 검색"
 	},
 	{
 		"assign": "myshop_dialog_b_07",
 		"jp_text": "存在しないアイテム、\nもしくは特殊能力名を指定しています。\n\n<color=#ff0000>※アイテム名、特殊能力名は\n完全一致のみ検索にヒットします。</color>",
-		"tr_text": ""
+		"tr_text": "존재하지 않는 아이템,\n또는 특수 능력 이름을 지정했습니다.\n\n<color=#ff0000>※아이템명, 특수 능력 이름은\n완전 일치만 검색이 가능 합니다.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_08",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 검색"
 	},
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": ""
+		"tr_text": "구입은 「PSO2 마이 샵 이용권」 또는 랍피 메달이 필요합니다.\n이용권이 없는 경우<%AC>로 이용권을 구입할 수 있습니다.\n\n필요 PSO2es 마이 샵 이용권: : <%NEEDTICKET>\n소지 PSO2es 마이 샵 이용권 : <%HAVETICKET>\n\n필요 랍피 메달 : <%nNEEDMEDAL>\n 소지 랍피 메달 : <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
@@ -3417,7 +3417,7 @@
 	{
 		"assign": "myshop_dialog_b_08_ticket",
 		"jp_text": "マイショップ利用券",
-		"tr_text": ""
+		"tr_text": "마이샵 이용권"
 	},
 	{
 		"assign": "myshop_dialog_b_08_medal",
@@ -3432,27 +3432,27 @@
 	{
 		"assign": "myshop_dialog_t_09",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_09",
 		"jp_text": "アイテムを<%MESETA>メセタで購入します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "아이템을 <%MESETA>메세타에 구입합니다.\n괜찮습니까?"
 	},
 	{
 		"assign": "myshop_dialog_t_10",
 		"jp_text": "アイテム購入",
-		"tr_text": ""
+		"tr_text": "아이템 구입"
 	},
 	{
 		"assign": "myshop_dialog_b_10",
 		"jp_text": "プレミアム期間ではないため\nマイショップでのアイテム購入ができません。\nプレミアム期間になり\n再度アイテム購入をお試しください。\nプレミアムセットは<%AC>ショップで購入と使用ができます。",
-		"tr_text": ""
+		"tr_text": "프리미엄 기간이 지나\n마이 샵에서 아이템을 구입할 수 없습니다.\n프리미엄 기간이 되어\n다시 아이템 구입을 하세요.\n프리미엄 세트는 <%AC> 샵에서 구입 및 사용이 가능합니다."
 	},
 	{
 		"assign": "myshop_dialog_t_11",
 		"jp_text": "アイテム出品",
-		"tr_text": ""
+		"tr_text": "아이템 출품"
 	},
 	{
 		"assign": "myshop_dialog_b_11",
@@ -3462,7 +3462,7 @@
 	{
 		"assign": "myshop_dialog_t_12",
 		"jp_text": "出品",
-		"tr_text": ""
+		"tr_text": "출품"
 	},
 	{
 		"assign": "myshop_dialog_b_12",
@@ -3472,7 +3472,7 @@
 	{
 		"assign": "myshop_dialog_t_13",
 		"jp_text": "出品キャンセルの確認",
-		"tr_text": ""
+		"tr_text": "출품 취소 확인"
 	},
 	{
 		"assign": "myshop_dialog_b_13",
@@ -4812,7 +4812,7 @@
 	{
 		"assign": "myshop_market_button",
 		"jp_text": "相場",
-		"tr_text": ""
+		"tr_text": "시세"
 	},
 	{
 		"assign": "myshop_market_title",
@@ -5372,7 +5372,7 @@
 	{
 		"assign": "quest_counter_raid_other",
 		"jp_text": "その他の報酬　<color=#68a0a7>/</color>",
-		"tr_text": ""
+		"tr_text": "기타 보수<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "questcounter_questlist_error_t",
@@ -5442,7 +5442,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を1個消費して、覇級を解除します。\nよろしいですか？\n\n<color=#ffff00>所持数：{0}個</color>\n\n※クエストに出発せずに開催クエストが終了した場合、\nロック状態と覇級トリガーの所持数は元に戻ります。",
-		"tr_text": ""
+		"tr_text": "패급 트리거를 1개 소비하여, 패급을 해제합니다.\n괜찮습니까?\n\n<color=#ffff00>소지 수 : {0}개</color>\n\n(퀘스트에 출발하지 않고 개최 신청이 끝난 경우,\n잠금 상태와 패급 트리거의 소지 수는 원래대로 돌아갑니다."
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -5757,17 +5757,17 @@
 	{
 		"assign": "scratch_guide_00",
 		"jp_text": "<color=#f0df60>購入するスクラッチを選択してください。所持数の上限を超えたチップ、アイテムは、受け取りボックスに送られます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>구입 할 스크래치를 서택하세요. 소지 수의 상한을 넘은 칩, 아이템은 수신 박스로 보냅니다.</color>"
 	},
 	{
 		"assign": "scratch_guide_01",
 		"jp_text": "<color=#f0df60>スクラッチ回数ボーナスのプレゼント一覧です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>스크래치 횟수 보너스 선물 목록입니다.</color>"
 	},
 	{
 		"assign": "scratch_dialog_t_00",
 		"jp_text": "メダルスクラッチ",
-		"tr_text": ""
+		"tr_text": "메달 스크래치"
 	},
 	{
 		"assign": "scratch_dialog_b_00",
@@ -5777,7 +5777,7 @@
 	{
 		"assign": "scratch_dialog_t_01",
 		"jp_text": "レアチップスクラッチパック",
-		"tr_text": ""
+		"tr_text": "레어 칩 스크래치 팩"
 	},
 	{
 		"assign": "scratch_dialog_b_01",
@@ -5942,7 +5942,7 @@
 	{
 		"assign": "scratch_bonus_menu_info",
 		"jp_text": "あと<color=#ffff00>{0}回</color>でプレゼント！",
-		"tr_text": "앞으로 <color=#ffff00>{0}회</color>로 선물"
+		"tr_text": "<color=#ffff00>{0}회</color> 더 지르면 선물!"
 	},
 	{
 		"assign": "scratch_bonus_menu_multi_bonus",
@@ -6017,7 +6017,7 @@
 	{
 		"assign": "quest_line_00",
 		"jp_text": "冒険中のプレイヤーに出会いました。\nフレンド申を行いますか？",
-		"tr_text": ""
+		"tr_text": "모험 중의 플레이어를 만났습니다\n프랜드 신청을 하시겠습니까?"
 	},
 	{
 		"assign": "quest_line_08_cbt",
@@ -6027,7 +6027,7 @@
 	{
 		"assign": "quest_dialog_t_00",
 		"jp_text": "復活確認",
-		"tr_text": ""
+		"tr_text": "부활 확인"
 	},
 	{
 		"assign": "quest_dialog_b_00",
@@ -8477,72 +8477,72 @@
 	{
 		"assign": "item_grind_effect_compensation",
 		"jp_text": "効果補正",
-		"tr_text": ""
+		"tr_text": "효과 보정"
 	},
 	{
 		"assign": "item_grind_tab_title",
 		"jp_text": "項目",
-		"tr_text": ""
+		"tr_text": "항목"
 	},
 	{
 		"assign": "item_grind_tab_before",
 		"jp_text": "前",
-		"tr_text": ""
+		"tr_text": "전"
 	},
 	{
 		"assign": "item_grind_tab_after",
 		"jp_text": "後",
-		"tr_text": ""
+		"tr_text": "후"
 	},
 	{
 		"assign": "item_grind_select_menu",
 		"jp_text": "強化アイテム選択",
-		"tr_text": ""
+		"tr_text": "강화 아이템 선택"
 	},
 	{
 		"assign": "item_grind_detail_menu",
 		"jp_text": "アイテム詳細",
-		"tr_text": ""
+		"tr_text": "아이템 상세"
 	},
 	{
 		"assign": "item_grind_option_menu",
 		"jp_text": "補助アイテム",
-		"tr_text": ""
+		"tr_text": "보조 아이템"
 	},
 	{
 		"assign": "item_grind_option_select_menu",
 		"jp_text": "補助アイテム選択",
-		"tr_text": ""
+		"tr_text": "보조 아이템 선택"
 	},
 	{
 		"assign": "item_grind_result_menu",
 		"jp_text": "強化結果",
-		"tr_text": ""
+		"tr_text": "강화 경과"
 	},
 	{
 		"assign": "item_grind_strike",
 		"jp_text": "打撃力",
-		"tr_text": ""
+		"tr_text": "타격력"
 	},
 	{
 		"assign": "item_grind_firearm",
 		"jp_text": "射撃力",
-		"tr_text": ""
+		"tr_text": "사격력"
 	},
 	{
 		"assign": "item_grind_technic",
 		"jp_text": "法撃力",
-		"tr_text": ""
+		"tr_text": "법격력"
 	},
 	{
 		"assign": "item_grind_strike_defense",
 		"jp_text": "打撃防御",
-		"tr_text": ""
+		"tr_text": "타격 방어"
 	},
 	{
 		"assign": "item_grind_firearm_defense",
 		"jp_text": "射撃防御",
-		"tr_text": ""
+		"tr_text": "사격 방어"
 	},
 	{
 		"assign": "item_grind_technic_defense",
@@ -16822,7 +16822,7 @@
 	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
-		"tr_text": "<color=#f0df60> 받는 박스 안에는 수령 기간이 있는 아이템이 있습니다.기한이 지나면 받을 수 없으므로 주의하세요.</color>"
+		"tr_text": "<color=#f0df60> 수신 박스 안에는 수령 기간이 있는 아이템이 있습니다.기한이 지나면 받을 수 없으므로 주의하세요.</color>"
 	},
 	{
 		"assign": "acceptbox_title",
