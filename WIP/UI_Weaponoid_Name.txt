@@ -2,607 +2,607 @@
 	{
 		"assign": "96",
 		"jp_text": "カルデスタ",
-		"tr_text": ""
+		"tr_text": "칼데스타"
 	},
 	{
 		"assign": "89",
 		"jp_text": "リグガヴエル",
-		"tr_text": ""
+		"tr_text": "리그가브엘"
 	},
 	{
 		"assign": "102",
 		"jp_text": "ファイナルインパクト",
-		"tr_text": ""
+		"tr_text": "파이널임팩트"
 	},
 	{
 		"assign": "56",
 		"jp_text": "アストラルライザー",
-		"tr_text": ""
+		"tr_text": "아스트랄라이저"
 	},
 	{
 		"assign": "104",
 		"jp_text": "ギリハート",
-		"tr_text": ""
+		"tr_text": "길리하트"
 	},
 	{
 		"assign": "1",
 		"jp_text": "ドラゴンスレイヤー",
-		"tr_text": ""
+		"tr_text": "드래곤슬레이어"
 	},
 	{
 		"assign": "5",
 		"jp_text": "ブレイドダンス",
-		"tr_text": ""
+		"tr_text": "블레이드댄스"
 	},
 	{
 		"assign": "3",
 		"jp_text": "恋鳳凰",
-		"tr_text": ""
+		"tr_text": "연봉황"
 	},
 	{
 		"assign": "4",
 		"jp_text": "アダマンの杖",
-		"tr_text": ""
+		"tr_text": "아다만의 지팡이"
 	},
 	{
 		"assign": "12",
 		"jp_text": "ストライクブルート",
-		"tr_text": ""
+		"tr_text": "스트라이크블루트"
 	},
 	{
 		"assign": "8",
 		"jp_text": "Ｈ４４ミズーリＴ",
-		"tr_text": ""
+		"tr_text": "H44미주리T"
 	},
 	{
 		"assign": "14",
 		"jp_text": "ロゼフロッツ",
-		"tr_text": ""
+		"tr_text": "로제프록시"
 	},
 	{
 		"assign": "19",
 		"jp_text": "グロリアスウィング",
-		"tr_text": ""
+		"tr_text": "글로리어스윙"
 	},
 	{
 		"assign": "11",
 		"jp_text": "レッドスコルピオ",
-		"tr_text": ""
+		"tr_text": "레드스콜피오"
 	},
 	{
 		"assign": "18",
 		"jp_text": "ラビットウォンド",
-		"tr_text": ""
+		"tr_text": "래빗완드"
 	},
 	{
 		"assign": "20",
 		"jp_text": "テンイムソウ",
-		"tr_text": ""
+		"tr_text": "천의무쌍"
 	},
 	{
 		"assign": "99",
 		"jp_text": "ガルド・ミラ",
-		"tr_text": ""
+		"tr_text": "갈드 미라"
 	},
 	{
 		"assign": "106",
 		"jp_text": "ウィンドミル",
-		"tr_text": ""
+		"tr_text": "윈드밀"
 	},
 	{
 		"assign": "101",
 		"jp_text": "フラドール",
-		"tr_text": ""
+		"tr_text": "플라돌"
 	},
 	{
 		"assign": "90",
 		"jp_text": "クイーンヴィエラ",
-		"tr_text": ""
+		"tr_text": "퀸비엘라"
 	},
 	{
 		"assign": "2",
 		"jp_text": "ナスヨテリ",
-		"tr_text": ""
+		"tr_text": "나스요테리"
 	},
 	{
 		"assign": "17",
 		"jp_text": "ディエスリュウ",
-		"tr_text": ""
+		"tr_text": "디에스류"
 	},
 	{
 		"assign": "27",
 		"jp_text": "サイコウォンド",
-		"tr_text": ""
+		"tr_text": "사이코완드"
 	},
 	{
 		"assign": "80001",
 		"jp_text": "モア",
-		"tr_text": ""
+		"tr_text": "모아"
 	},
 	{
 		"assign": "15",
 		"jp_text": "曙",
-		"tr_text": ""
+		"tr_text": "여명"
 	},
 	{
 		"assign": "10",
 		"jp_text": "インペリアルピック",
-		"tr_text": ""
+		"tr_text": "임페리얼피크"
 	},
 	{
 		"assign": "7",
 		"jp_text": "バイオトライナー",
-		"tr_text": ""
+		"tr_text": "바이오트라이너"
 	},
 	{
 		"assign": "26",
 		"jp_text": "ニレンカムイ",
-		"tr_text": ""
+		"tr_text": "니렌카무이"
 	},
 	{
 		"assign": "13",
 		"jp_text": "ニョイボウ",
-		"tr_text": ""
+		"tr_text": "여의봉"
 	},
 	{
 		"assign": "6",
 		"jp_text": "ヤミガラス",
-		"tr_text": ""
+		"tr_text": "야미가라스"
 	},
 	{
 		"assign": "107",
 		"jp_text": "ファーレングリフ",
-		"tr_text": ""
+		"tr_text": "파렌그리프"
 	},
 	{
 		"assign": "90000",
 		"jp_text": "ジェネ",
-		"tr_text": ""
+		"tr_text": "제네"
 	},
 	{
 		"assign": "24",
 		"jp_text": "ノワルミラーズ",
-		"tr_text": ""
+		"tr_text": "노와르미라즈"
 	},
 	{
 		"assign": "16",
 		"jp_text": "シャットラウンダー",
-		"tr_text": ""
+		"tr_text": "셧라운더"
 	},
 	{
 		"assign": "9",
 		"jp_text": "セイメイキカミ",
-		"tr_text": ""
+		"tr_text": "세이메이키카미"
 	},
 	{
 		"assign": "33",
 		"jp_text": "タービュラス",
-		"tr_text": ""
+		"tr_text": "타뷸라스"
 	},
 	{
 		"assign": "30",
 		"jp_text": "サルスパニッシャー",
-		"tr_text": ""
+		"tr_text": "사루스퍼니셔"
 	},
 	{
 		"assign": "90003",
 		"jp_text": "セラフィ",
-		"tr_text": ""
+		"tr_text": "세라피"
 	},
 	{
 		"assign": "90002",
 		"jp_text": "ブルーノ",
-		"tr_text": ""
+		"tr_text": "브루노"
 	},
 	{
 		"assign": "23",
 		"jp_text": "ジャッジメントハーツ",
-		"tr_text": ""
+		"tr_text": "저지먼트하츠"
 	},
 	{
 		"assign": "25",
 		"jp_text": "紅葉姫",
-		"tr_text": ""
+		"tr_text": "홍엽희"
 	},
 	{
 		"assign": "31",
 		"jp_text": "華散王",
-		"tr_text": ""
+		"tr_text": "화산왕"
 	},
 	{
 		"assign": "28",
 		"jp_text": "ブルージーレクイエム",
-		"tr_text": ""
+		"tr_text": "블루지레퀴엠"
 	},
 	{
 		"assign": "22",
 		"jp_text": "レントオーナム",
-		"tr_text": ""
+		"tr_text": "렌트오넘"
 	},
 	{
 		"assign": "21",
 		"jp_text": "モタブの預言書",
-		"tr_text": ""
+		"tr_text": "모타브의 예언서"
 	},
 	{
 		"assign": "42",
 		"jp_text": "トールマリンカ",
-		"tr_text": ""
+		"tr_text": "토르마링카"
 	},
 	{
 		"assign": "38",
 		"jp_text": "マインバンカー",
-		"tr_text": ""
+		"tr_text": "마인벙커"
 	},
 	{
 		"assign": "41",
 		"jp_text": "ナールクレセント",
-		"tr_text": ""
+		"tr_text": "널크레센트"
 	},
 	{
 		"assign": "65",
 		"jp_text": "ロックナックル",
-		"tr_text": ""
+		"tr_text": "록너클"
 	},
 	{
 		"assign": "36",
 		"jp_text": "ブラオレット",
-		"tr_text": ""
+		"tr_text": "브라오렛"
 	},
 	{
 		"assign": "32",
 		"jp_text": "セイクリッドダスター",
-		"tr_text": ""
+		"tr_text": "세이크리드더스터"
 	},
 	{
 		"assign": "70",
 		"jp_text": "ミヤビセン",
-		"tr_text": ""
+		"tr_text": "미야비센"
 	},
 	{
 		"assign": "67",
 		"jp_text": "夕雁渡",
-		"tr_text": ""
+		"tr_text": "유카리와타시"
 	},
 	{
 		"assign": "44",
 		"jp_text": "ビスケドロプ",
-		"tr_text": ""
+		"tr_text": "비스키드로프"
 	},
 	{
 		"assign": "62",
 		"jp_text": "Ｔヤスミノコフ２０００Ｈ",
-		"tr_text": ""
+		"tr_text": "T야스미노코프2000H"
 	},
 	{
 		"assign": "43",
 		"jp_text": "バイオベルド",
-		"tr_text": ""
+		"tr_text": "바이오벨드"
 	},
 	{
 		"assign": "55",
 		"jp_text": "ゴッドハンド",
-		"tr_text": ""
+		"tr_text": "갓핸드"
 	},
 	{
 		"assign": "60",
 		"jp_text": "マダムノアマガサ",
-		"tr_text": ""
+		"tr_text": "마담의 우산"
 	},
 	{
 		"assign": "63",
 		"jp_text": "フリートマリンカ",
-		"tr_text": ""
+		"tr_text": "프리트마링카"
 	},
 	{
 		"assign": "34",
 		"jp_text": "リンドクレイ",
-		"tr_text": ""
+		"tr_text": 린드클레이""
 	},
 	{
 		"assign": "37",
 		"jp_text": "ブラスハウル",
-		"tr_text": ""
+		"tr_text": "브라스하울"
 	},
 	{
 		"assign": "58",
 		"jp_text": "エリュシオン",
-		"tr_text": ""
+		"tr_text": "엘리시온"
 	},
 	{
 		"assign": "29",
 		"jp_text": "ノクスディナス",
-		"tr_text": ""
+		"tr_text": "녹스디나스"
 	},
 	{
 		"assign": "79",
 		"jp_text": "エグパスカ",
-		"tr_text": ""
+		"tr_text": "에그바주카"
 	},
 	{
 		"assign": "39",
 		"jp_text": "刃鞭パラティーゼル",
-		"tr_text": ""
+		"tr_text": "인편파라티젤"
 	},
 	{
 		"assign": "73",
 		"jp_text": "ルーライラ",
-		"tr_text": ""
+		"tr_text": "루라일라"
 	},
 	{
 		"assign": "74",
 		"jp_text": "オーバーテイル",
-		"tr_text": ""
+		"tr_text": "오버테일"
 	},
 	{
 		"assign": "48",
 		"jp_text": "ミリオブライト",
-		"tr_text": ""
+		"tr_text": "밀리오브라이트"
 	},
 	{
 		"assign": "68",
 		"jp_text": "ホローギムレット",
-		"tr_text": ""
+		"tr_text": "홀로기믈렛"
 	},
 	{
 		"assign": "105",
 		"jp_text": "ルフネシア",
-		"tr_text": ""
+		"tr_text": "루프네시아"
 	},
 	{
 		"assign": "59",
 		"jp_text": "スプレッドニードル",
-		"tr_text": ""
+		"tr_text": "스프레드니들"
 	},
 	{
 		"assign": "66",
 		"jp_text": "ヴォルカノメイス",
-		"tr_text": ""
+		"tr_text": "볼카노메이스"
 	},
 	{
 		"assign": "69",
 		"jp_text": "フブキトウシュウ",
-		"tr_text": ""
+		"tr_text": "후부키토우쇼우"
 	},
 	{
 		"assign": "64",
 		"jp_text": "シルフマリンカ",
-		"tr_text": ""
+		"tr_text": "실프마링카"
 	},
 	{
 		"assign": "52",
 		"jp_text": "ウェドルパーク",
-		"tr_text": ""
+		"tr_text": "웨들파크"
 	},
 	{
 		"assign": "45",
 		"jp_text": "アヴェンジャー",
-		"tr_text": ""
+		"tr_text": "어벤저"
 	},
 	{
 		"assign": "78",
 		"jp_text": "フラウディア",
-		"tr_text": ""
+		"tr_text": "플라우디아"
 	},
 	{
 		"assign": "129",
 		"jp_text": "シェーンフリサ",
-		"tr_text": ""
+		"tr_text": "셴프리서"
 	},
 	{
 		"assign": "50",
 		"jp_text": "ディオティグリドル",
-		"tr_text": ""
+		"tr_text": "디오티그리들"
 	},
 	{
 		"assign": "86",
 		"jp_text": "シューティングドライブ",
-		"tr_text": ""
+		"tr_text": "슈팅드라이브"
 	},
 	{
 		"assign": "54",
 		"jp_text": "スサノシナリ",
-		"tr_text": ""
+		"tr_text": "스사노시나리"
 	},
 	{
 		"assign": "82",
 		"jp_text": "ダールワイグル",
-		"tr_text": ""
+		"tr_text": "달와이글"
 	},
 	{
 		"assign": "97",
 		"jp_text": "ラヴィス＝ブレイド",
-		"tr_text": ""
+		"tr_text": "러브이스=블레이드"
 	},
 	{
 		"assign": "53",
 		"jp_text": "スサノショウハ",
-		"tr_text": ""
+		"tr_text": "스사노쇼우하"
 	},
 	{
 		"assign": "87",
 		"jp_text": "ガーンデーヴァ",
-		"tr_text": ""
+		"tr_text": "건디바"
 	},
 	{
 		"assign": "75",
 		"jp_text": "パンプキンロッド",
-		"tr_text": ""
+		"tr_text": "펌프킨로드"
 	},
 	{
 		"assign": "72",
 		"jp_text": "ライブステイド",
-		"tr_text": ""
+		"tr_text": "라이브스테이드"
 	},
 	{
 		"assign": "57",
 		"jp_text": "流星棍",
-		"tr_text": ""
+		"tr_text": "유성곤"
 	},
 	{
 		"assign": "51",
 		"jp_text": "インペリアルピック-NT",
-		"tr_text": ""
+		"tr_text": "임페리얼피크-NT"
 	},
 	{
 		"assign": "80",
 		"jp_text": "ヴェルトバズ",
-		"tr_text": ""
+		"tr_text": "벨트버스"
 	},
 	{
 		"assign": "76",
 		"jp_text": "ファイアーアームズ",
-		"tr_text": ""
+		"tr_text": "파이어암즈"
 	},
 	{
 		"assign": "71",
 		"jp_text": "セイントフェザー",
-		"tr_text": ""
+		"tr_text": "세인트페더"
 	},
 	{
 		"assign": "91",
 		"jp_text": "ヴィヴィアン",
-		"tr_text": ""
+		"tr_text": "비비안"
 	},
 	{
 		"assign": "92",
 		"jp_text": "クラーリタ・ヴィサス",
-		"tr_text": ""
+		"tr_text": "클라리타 비서스"
 	},
 	{
 		"assign": "46",
 		"jp_text": "レイディアント",
-		"tr_text": ""
+		"tr_text": "레이디언트"
 	},
 	{
 		"assign": "47",
 		"jp_text": "フレイフィオーラ",
-		"tr_text": ""
+		"tr_text": "프레이피올라"
 	},
 	{
 		"assign": "88",
 		"jp_text": "オプトレリート",
-		"tr_text": ""
+		"tr_text": "옵트렐리트"
 	},
 	{
 		"assign": "84",
 		"jp_text": "ザンバ",
-		"tr_text": ""
+		"tr_text": "잔바"
 	},
 	{
 		"assign": "90001",
 		"jp_text": "アネット",
-		"tr_text": ""
+		"tr_text": "아네트"
 	},
 	{
 		"assign": "81",
 		"jp_text": "ギフトサック",
-		"tr_text": ""
+		"tr_text": "기프트색"
 	},
 	{
 		"assign": "61",
 		"jp_text": "イデアルデュオス",
-		"tr_text": ""
+		"tr_text": "아이디얼시저즈"
 	},
 	{
 		"assign": "98",
 		"jp_text": "ガルウィンド",
-		"tr_text": ""
+		"tr_text": "갈윈드"
 	},
 	{
 		"assign": "83",
 		"jp_text": "セラータクレイン",
-		"tr_text": ""
+		"tr_text": "세라타크레인"
 	},
 	{
 		"assign": "100",
 		"jp_text": "ビューレイアール",
-		"tr_text": ""
+		"tr_text": "뷸레이얼"
 	},
 	{
 		"assign": "49",
 		"jp_text": "イデアルシザーズ",
-		"tr_text": ""
+		"tr_text": "아이디얼시저즈"
 	},
 	{
 		"assign": "94",
 		"jp_text": "エビルカースト",
-		"tr_text": ""
+		"tr_text": "에빌카스트"
 	},
 	{
 		"assign": "95",
 		"jp_text": "ギガススピナー",
-		"tr_text": ""
+		"tr_text": "기가스스피너"
 	},
 	{
 		"assign": "109",
 		"jp_text": "ノクスカディナ",
-		"tr_text": ""
+		"tr_text": "녹스카디나"
 	},
 	{
 		"assign": "113",
 		"jp_text": "エンシェントクォーツ",
-		"tr_text": ""
+		"tr_text": "에이션트쿼츠"
 	},
 	{
 		"assign": "123",
 		"jp_text": "新光小槌",
-		"tr_text": ""
+		"tr_text": "신광소퇴"
 	},
 	{
 		"assign": "114",
 		"jp_text": "ケイトレイター",
-		"tr_text": ""
+		"tr_text": "케이트레이터"
 	},
 	{
 		"assign": "77",
 		"jp_text": "リンドブルム",
-		"tr_text": ""
+		"tr_text": "린드블룸"
 	},
 	{
 		"assign": "111",
 		"jp_text": "ヤシャ",
-		"tr_text": ""
+		"tr_text": "야샤"
 	},
 	{
 		"assign": "116",
 		"jp_text": "リカウテリ",
-		"tr_text": ""
+		"tr_text": "리카우테리"
 	},
 	{
 		"assign": "124",
 		"jp_text": "アーディロウ",
-		"tr_text": ""
+		"tr_text": "아디로우"
 	},
 	{
 		"assign": "118",
 		"jp_text": "ルチルス",
-		"tr_text": ""
+		"tr_text": "루치루스"
 	},
 	{
 		"assign": "110",
 		"jp_text": "ライトニングエスパーダ",
-		"tr_text": ""
+		"tr_text": "라이트닝에스파다"
 	},
 	{
 		"assign": "125",
 		"jp_text": "ファニーブーケライフル",
-		"tr_text": ""
+		"tr_text": "퍼니부케라이플"
 	},
 	{
 		"assign": "117",
 		"jp_text": "禍蹴ピリカネト",
-		"tr_text": ""
+		"tr_text": "화축피리카네트"
 	},
 	{
 		"assign": "128",
 		"jp_text": "ＳＳＰＮランチャー",
-		"tr_text": ""
+		"tr_text": "SSPN런처"
 	},
 	{
 		"assign": "127",
 		"jp_text": "トライデントクラッシャー",
-		"tr_text": ""
+		"tr_text": "트라이던트크러셔"
 	},
 	{
 		"assign": "90004",
