@@ -4,13 +4,13 @@
 		"jp_text": "ツイスターフォール／Ｃ",
 		"tr_text": "",
 		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
-		"tr_explain": ""
+		"tr_explain": "a disc for reconfiguring the PA \ncreated by PA Customization."
 	},
 	{
 		"assign": "9519",
 		"jp_text": "サクリファイスバイト／Ｃ",
 		"tr_text": "",
 		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
-		"tr_explain": ""
+		"tr_explain": "a disc for reconfiguring the PA \ncreated by PA Customization."
 	}
 ]
