@@ -707,87 +707,87 @@
 	{
 		"assign": "1062005",
 		"jp_text": "単眼の巨人キュクロナーダ",
-		"tr_text": ""
+		"tr_text": "외눈의 거인 큐쿠로나다"
 	},
 	{
 		"assign": "1063001",
 		"jp_text": "キャタドランサ討伐",
-		"tr_text": ""
+		"tr_text": "캬타도란사 토벌"
 	},
 	{
 		"assign": "1063002",
 		"jp_text": "ダガンとカルターゴ",
-		"tr_text": ""
+		"tr_text": "다간과 카르타고"
 	},
 	{
 		"assign": "1063003",
 		"jp_text": "クォーツ・ドラゴン討伐",
-		"tr_text": ""
+		"tr_text": "쿼츠 드래곤 토벌"
 	},
 	{
 		"assign": "1063004",
 		"jp_text": "侵食のキャタドランサ",
-		"tr_text": ""
+		"tr_text": "침식당한 캬타도란사"
 	},
 	{
 		"assign": "1063005",
 		"jp_text": "侵食クォーツ討伐指令",
-		"tr_text": ""
+		"tr_text": "침식당한 쿼츠 토별 지령"
 	},
 	{
 		"assign": "1064001",
 		"jp_text": "再び遺跡へ",
-		"tr_text": ""
+		"tr_text": "다시 유적으로"
 	},
 	{
 		"assign": "1064002",
 		"jp_text": "盾の番人",
-		"tr_text": ""
+		"tr_text": "철벽의 파수꾼"
 	},
 	{
 		"assign": "1064003",
 		"jp_text": "遺跡の突進王",
-		"tr_text": ""
+		"tr_text": "유적의 돌진왕"
 	},
 	{
 		"assign": "1064004",
 		"jp_text": "凶悪なるダーク・ラグネ",
-		"tr_text": ""
+		"tr_text": "흉악한 다크 라그네"
 	},
 	{
 		"assign": "1064005",
 		"jp_text": "脅威の装甲ゼッシュレイダ",
-		"tr_text": ""
+		"tr_text": "위협하는 장갑 젯슈레이다"
 	},
 	{
 		"assign": "1071001",
 		"jp_text": "地下坑道へ",
-		"tr_text": ""
+		"tr_text": "지하 갱도로"
 	},
 	{
 		"assign": "1071002",
 		"jp_text": "機甲種の巣窟",
-		"tr_text": ""
+		"tr_text": "기갑종의 소굴"
 	},
 	{
 		"assign": "1071003",
 		"jp_text": "群れ寄る防衛兵器",
-		"tr_text": ""
+		"tr_text": "무리 지은 방어기체"
 	},
 	{
 		"assign": "1071004",
 		"jp_text": "高速の斬撃",
-		"tr_text": ""
+		"tr_text": "쾌속 베기"
 	},
 	{
 		"assign": "1071005",
 		"jp_text": "タイプＣ出現警報",
-		"tr_text": ""
+		"tr_text": "C형 출현 경보"
 	},
 	{
 		"assign": "1072001",
 		"jp_text": "タイプＣ探索",
-		"tr_text": ""
+		"tr_text": "C형 수색"
 	},
 	{
 		"assign": "1072002",
